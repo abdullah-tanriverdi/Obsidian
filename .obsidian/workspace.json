@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
+                "file": "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 -SDK Nedir"
+              "title": "002 -GCC Ve CLANG Derleyiciler Nedir"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/003 -Dalvik Ve ART Nedir.md",
+                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 -Dalvik Ve ART Nedir"
+              "title": "003 - ADB Nedir"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,13 +98,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
+                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001 -SDK Nedir"
+              "title": "Backlinks for 003 - ADB Nedir"
             }
           },
           {
@@ -138,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
+                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 001 -SDK Nedir"
+              "title": "Outgoing links from 003 - ADB Nedir"
             }
           },
           {
@@ -165,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md"
+                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 001 -SDK Nedir"
+              "title": "Outline of 003 - ADB Nedir"
             }
           }
         ]
@@ -188,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "987f0127008d82f7",
+  "active": "2d8fc77439653ffe",
   "lastOpenFiles": [
+    "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
     "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/003 -Dalvik Ve ART Nedir.md",
+    "Pasted image 20250126212646.png",
     "Pasted image 20250126210139.png",
     "-Resimler/Pasted image 20250126205837.jpg",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/002 -Android NDK.md",
@@ -200,7 +201,6 @@
     "Yazılım/Yazılım Jargonları/005 -Gradle Nedir.md",
     "Yazılım/Yazılım Jargonları/004 -JNI Nedir.md",
     "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
-    "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
     "Pasted image 20250126201719.png",
     "-Android SDK Nedir.md",
     "Yazılım/Yazılım Jargonları",
@@ -219,7 +219,6 @@
     "-Resimler/Words.jpg",
     "-Resimler/starlink.jpg",
     "-Resimler/splashScreen.png",
-    "-Resimler/Scaffold.png",
     "-Resimler",
     "Mobil Geliştirme/Android-Kotlin Jetpack Compose",
     "Mobil Geliştirme",
