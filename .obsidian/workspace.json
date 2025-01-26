@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/003 -Module build.gradle.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/004 - Project Settings settings.gradle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 -Module build.gradle"
+              "title": "004 - Project Settings settings.gradle"
             }
           }
         ],
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/003 -Module build.gradle.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/004 - Project Settings settings.gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 003 -Module build.gradle"
+              "title": "Backlinks for 004 - Project Settings settings.gradle"
             }
           },
           {
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/003 -Module build.gradle.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/004 - Project Settings settings.gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 003 -Module build.gradle"
+              "title": "Outgoing links from 004 - Project Settings settings.gradle"
             }
           },
           {
@@ -151,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/003 -Module build.gradle.md"
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/004 - Project Settings settings.gradle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 003 -Module build.gradle"
+              "title": "Outline of 004 - Project Settings settings.gradle"
             }
           }
         ]
@@ -176,8 +175,9 @@
   },
   "active": "bdc986125f760d3b",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Android/001 -Android'e Giriş.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/004 - Project Settings settings.gradle.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/003 -Module build.gradle.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Android/001 -Android'e Giriş.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Android/004 -ADB (Android Debug Bridge) Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/002 -Root build.gradle.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/001 -Gradle Script Nedir.md",
@@ -220,7 +220,6 @@
     "Proje A.md",
     "Okunacak Kitaplar.md",
     "Not 1.md",
-    "Günlük Notlar.md",
-    "Fikirler ve İlhamlar.md"
+    "Günlük Notlar.md"
   ]
 }
