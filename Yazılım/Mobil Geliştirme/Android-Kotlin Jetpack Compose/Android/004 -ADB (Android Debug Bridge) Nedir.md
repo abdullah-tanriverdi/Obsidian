@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android-Kotlin 
+#Yazılım #MobilGeliştirme #Android
 
 ![[Pasted image 20250126221057.jpg|500]]
 

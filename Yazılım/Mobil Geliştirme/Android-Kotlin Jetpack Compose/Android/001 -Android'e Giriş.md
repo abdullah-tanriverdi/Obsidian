@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android-Kotlin 
+#Yazılım #MobilGeliştirme #Android
 
 Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir.Linux çekirdeği üzerine inşa edilmiş olup, mobil cihazlar ve çeşitli platformlar için tasarlanmıştır. Geliştiriciler, Android uygulamarını yazmak için belli başlı programlama dillerini kullanılabilir.
 
