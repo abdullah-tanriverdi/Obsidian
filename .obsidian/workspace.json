@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dcf7e9060994a83c",
+        "id": "9073c2428b4cb47e",
         "type": "tabs",
         "children": [
           {
-            "id": "987f0127008d82f7",
+            "id": "a12d82870c519250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/004 -ADB (Android Debug Bridge) Nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 -GCC Ve CLANG Derleyiciler Nedir"
-            }
-          },
-          {
-            "id": "2d8fc77439653ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "003 - ADB Nedir"
-            }
-          },
-          {
-            "id": "1b73c69d7b9a821b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "004 -ADB (Android Debug Bridge) Nedir"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/004 -ADB (Android Debug Bridge) Nedir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 003 - ADB Nedir"
+              "title": "Backlinks for 004 -ADB (Android Debug Bridge) Nedir"
             }
           },
           {
@@ -137,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/004 -ADB (Android Debug Bridge) Nedir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 003 - ADB Nedir"
+              "title": "Outgoing links from 004 -ADB (Android Debug Bridge) Nedir"
             }
           },
           {
@@ -164,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md"
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/004 -ADB (Android Debug Bridge) Nedir.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 003 - ADB Nedir"
+              "title": "Outline of 004 -ADB (Android Debug Bridge) Nedir"
             }
           }
         ]
@@ -187,20 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8fc77439653ffe",
+  "active": "a12d82870c519250",
   "lastOpenFiles": [
+    "-Resimler/Pasted image 20250126221057.jpg",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/004 -ADB (Android Debug Bridge) Nedir.md",
+    "Yazılım/Yazılım Jargonları/000 -Gradle Nedir.md",
+    "Yazılım/Yazılım Jargonları/000 -JNI Nedir.md",
+    "-Resimler/Pasted image 20250126210139.png",
+    "-Resimler/Pasted image 20250126212646.png",
     "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
     "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/003 -Dalvik Ve ART Nedir.md",
-    "Pasted image 20250126212646.png",
-    "Pasted image 20250126210139.png",
     "-Resimler/Pasted image 20250126205837.jpg",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/002 -Android NDK.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/001 -Android'e Giriş.md",
     "-Resimler/Pasted image 20250126201752.jpg",
-    "Yazılım/Yazılım Jargonları/005 -Gradle Nedir.md",
-    "Yazılım/Yazılım Jargonları/004 -JNI Nedir.md",
-    "Yazılım/Yazılım Jargonları/003 - ADB Nedir.md",
     "Pasted image 20250126201719.png",
     "-Android SDK Nedir.md",
     "Yazılım/Yazılım Jargonları",
@@ -218,7 +194,6 @@
     "Index.md",
     "-Resimler/Words.jpg",
     "-Resimler/starlink.jpg",
-    "-Resimler/splashScreen.png",
     "-Resimler",
     "Mobil Geliştirme/Android-Kotlin Jetpack Compose",
     "Mobil Geliştirme",
