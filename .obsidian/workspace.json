@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/001 -Gradle Script Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/002 -Root build.gradle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 -Gradle Script Nedir"
+              "title": "002 -Root build.gradle"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/001 -Gradle Script Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/002 -Root build.gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001 -Gradle Script Nedir"
+              "title": "Backlinks for 002 -Root build.gradle"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/001 -Gradle Script Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/002 -Root build.gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 001 -Gradle Script Nedir"
+              "title": "Outgoing links from 002 -Root build.gradle"
             }
           },
           {
@@ -154,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/001 -Gradle Script Nedir.md"
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/002 -Root build.gradle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 001 -Gradle Script Nedir"
+              "title": "Outline of 002 -Root build.gradle"
             }
           }
         ]
@@ -177,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8510182773ad258",
+  "active": "bdc986125f760d3b",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/002 -Root build.gradle.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/001 -Gradle Script Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Gradle Scripts/002 -Root build.gradle.md",
     "-Resimler/Pasted image 20250127004519.png",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Android/003 -Dalvik Ve ART Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin Jetpack Compose/Android/004 -ADB (Android Debug Bridge) Nedir.md",
