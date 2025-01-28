@@ -101,6 +101,8 @@ android.nonTransitiveRClass=true
 - **Paralel Build**: `org.gradle.parallel` ayarı büyük projelerde build süresini hızlandırır.
 - **R Class Namespacing**: `android.nonTransitiveRClass=true` ayarıyla R sınıfı optimizasyonu yapılır.
 ***
+***
+
 
 ***Abdullah TANRIVERDİ***
 
