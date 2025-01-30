@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
-                "mode": "preview",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009 -Version Catalog Dosyası (libs.versions.toml)"
+              "title": "010 -SDK Location Dosyası (local.properties)"
             }
           },
           {
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -183,14 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecd609765bdd56da",
+  "active": "c418c471d0650786",
   "lastOpenFiles": [
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/004 -Project Settings (settings.gradle).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/005 -ProGuard Rules (proguard-rules.pro).md",
     "000 -Minify.md",
     "000 -Obfuscate.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/007 -Gradle Properties Dosyası (gradle.properties Global Properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
     "gradle.properties",
@@ -228,7 +230,6 @@
     "Yazılım",
     "Mobil Geliştirme/Android-Kotlin Jetpack Compose/003 -Dalvik Ve ART Nedir.md",
     "-Dalvik Ve ART Nedir.md",
-    "Mobil Geliştirme/Android-Kotlin Jetpack Compose/002 -Android NDK.md",
     "-Resimler",
     "Mobil Geliştirme/Android-Kotlin Jetpack Compose"
   ]
