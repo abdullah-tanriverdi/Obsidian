@@ -11,17 +11,38 @@
             "id": "a12d82870c519250",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c418c471d0650786",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
-                "mode": "source",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version)"
+              "title": "009 -Version Catalog Dosyası (libs.versions.toml)"
+            }
+          },
+          {
+            "id": "ecd609765bdd56da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -163,23 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a12d82870c519250",
+  "active": "ecd609765bdd56da",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/007 -Gradle Properties Dosyası (gradle.properties Global Properties).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/004 -Project Settings (settings.gradle).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/005 -ProGuard Rules (proguard-rules.pro).md",
-    "gradle.properties",
     "000 -Minify.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
     "000 -Obfuscate.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/007 -Gradle Properties Dosyası (gradle.properties Global Properties).md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
+    "gradle.properties",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
     "001 -Minify.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/004 -ADB (Android Debug Bridge) Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/001 -Android'e Giriş.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/002 -Root (build.gradle).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/003 -Dalvik Ve ART Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/002 -Android NDK.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/004 - Project Settings (settings.gradle).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/003 -Module (build.gradle).md",
     "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
     "Yazılım/Yazılım Jargonları/003 -Gradle Nedir.md",
@@ -208,7 +229,6 @@
     "Mobil Geliştirme/Android-Kotlin Jetpack Compose/003 -Dalvik Ve ART Nedir.md",
     "-Dalvik Ve ART Nedir.md",
     "Mobil Geliştirme/Android-Kotlin Jetpack Compose/002 -Android NDK.md",
-    "Mobil Geliştirme/Android-Kotlin Jetpack Compose/Untitled.md",
     "-Resimler",
     "Mobil Geliştirme/Android-Kotlin Jetpack Compose"
   ]
