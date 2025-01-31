@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/008 -Activity Lifecycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 -Android Tarihi ve Gelişimi"
+              "title": "008 -Activity Lifecycle"
             }
           },
           {
@@ -190,14 +190,15 @@
   },
   "active": "c418c471d0650786",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/007 -MVVM ile Android’de Decoupled Yapılar.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/008 -Activity Lifecycle.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/006 -AdMob ile Mobil Reklamcılık.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/001 -Android'e Giriş.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/007 -MVVM ile Android’de Decoupled Yapılar.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/002 -Android NDK.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/003 -Dalvik Ve ART Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/004 -ADB (Android Debug Bridge) Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
@@ -230,7 +231,6 @@
     "-Resimler/Pasted image 20250126222233.png",
     "-Android SDK Nedir.md",
     "Yazılım/Yazılım Jargonları",
-    "Yazılım/Untitled.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin",
     "Yazılım/Mobil Geliştirme",
     "Yazılım",
