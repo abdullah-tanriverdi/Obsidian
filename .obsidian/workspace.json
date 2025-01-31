@@ -11,10 +11,14 @@
             "id": "a12d82870c519250",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/007 -MVVM ile Android’de Decoupled Yapılar.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "007 -MVVM ile Android’de Decoupled Yapılar"
             }
           },
           {
@@ -23,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/006 -AdMob ile Mobil Reklamcılık.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006 -AdMob ile Mobil Reklamcılık"
+              "title": "005 -Android Tarihi ve Gelişimi"
             }
           },
           {
@@ -186,12 +190,14 @@
   },
   "active": "c418c471d0650786",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/003 -Dalvik Ve ART Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/006 -AdMob ile Mobil Reklamcılık.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/004 -ADB (Android Debug Bridge) Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/002 -Android NDK.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/001 -Android'e Giriş.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/007 -MVVM ile Android’de Decoupled Yapılar.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/002 -Android NDK.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/003 -Dalvik Ve ART Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/004 -ADB (Android Debug Bridge) Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
@@ -201,7 +207,6 @@
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/004 -Project Settings (settings.gradle).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/003 -Module (build.gradle).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/002 -Root (build.gradle).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
     "000 -Minify.md",
     "000 -Obfuscate.md",
     "gradle.properties",
@@ -226,7 +231,6 @@
     "-Android SDK Nedir.md",
     "Yazılım/Yazılım Jargonları",
     "Yazılım/Untitled.md",
-    "Mobil Geliştirme/Android-Kotlin Jetpack Compose/001 -Android'e Giriş.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin",
     "Yazılım/Mobil Geliştirme",
     "Yazılım",

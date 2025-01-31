@@ -19,21 +19,21 @@ Herkese merhaba, bu yazımda AdMob’u daha yakından tanıyacağız ve mobil uy
 
 ![](https://miro.medium.com/v2/resize:fit:385/1*BsAaXT4HlFDN05ryaZ0jag.png)
 
-## AdMob’un Tanımı
+==**AdMob’un Tanımı**==
 
 AdMob, Google tarafından mobil uygulama geliştiricilerine sunulan bir reklam platformudur. 2009 yılında Google tarafından satın alınan AdMob, mobil uygulamalar üzerinden gelir elde etmek isteyen geliştiricilere reklam alanları sunar.
 
 Peki neden reklam gösterilmeli? Uygulama kullanıcılarına reklam göstermek, uygulama geliştiricilerinin işletmesinin büyümesine yardımcı olurken aynı zamanda sürdürülebilir bir ek gelir kaynağı oluşturmamızı sağlar.Reklamverenler için de yeni müşterilere ulaşabilme imkanı sağlar. Bu yapı geliştiriciler, kullanıcılar ve reklamverenler için avantajlıdır
 
-## AdMob’un İşleyiş Şekli
+==**AdMob’un İşleyiş Şekli**==
 
 Reklamlar, ürün veya hizmetlerini uygulama kullanıcılarına tanıtmak isteyen reklamverenler tarafından oluşturulur ve ücretleri de onlar tarafından ödenir. Uygulamanızda reklamlar için alan oluşturduktan sonra, AdMob, kullanıcılarınızla alakalı reklamlar göstermek için ödeme yapan reklamverenlerle birlikte çalışır.
 
-## Platformlarla Uyumluluğu
+==**Platformlarla Uyumluluğu**==
 
 AdMob, mobil uygulama geliştiricilerine farklı platformlarda reklam geliri elde etme fırsatı sunar. Android ve iOS gibi en yaygın mobil işletim sistemleriyle tam uyumludur.Ayrıca Unity gibi oyun motorlarıyla da uyumludur. Bu uyumluluk sadece bunlarla yeterli kalmayıp diğer mobil platformlarda da AdMob reklam çözümleri sunar.
 
-## Google Ads İle Entegrasyonu
+==**Google Ads İle Entegrasyonu**==
 
 ![](https://miro.medium.com/v2/resize:fit:386/1*JpHS64h-rJWdaU-CY4BR6A.png)
 
@@ -41,7 +41,7 @@ AdMob, Google ekosisteminin bir parçası olduğu için Google Ads ile sorunsuz 
 
 Google Ads, reklam verenlerin hedef kitlelere ulaşmasını sağlayan bir platformdur. AdMob, bu platformdan aldığı reklamları mobil uygulamalara entegre eder ve geliştiricilere gösterir. Böylece, uygulama geliştiricileri sadece AdMob üzerinden değil, Google Ads üzerinden de gelen reklamlar ile gelir elde ederler.
 
-## AdMob Hesabı Oluşturma
+==**AdMob Hesabı Oluşturma**==
 
 ![](https://miro.medium.com/v2/resize:fit:370/1*5MlRvTWRV4fkiWsWRBd8IA.png)
 
@@ -59,7 +59,7 @@ Bu aşamayı da halletikten sonra karşınıza dashboard ekranı çıkacaktır.
 
 Dashboardın üstünde göründüğü gibi ödeme bilgilerini girmenizi isteyecektir. Ödeme bilgileri ve kimlik doğrulama adımlarını eksiksiz ve hatasız şekilde doldurmanız lazımdır. Aksi takdirde bi uyuşmazlık olması durumunda hesabınız askıya alınabilir. Bu kısımlarda halledilikten asıl kısımlara geçebiliriz
 
-## Uygulamaları AdMob’a Bağlama
+==**Uygulamaları AdMob’a Bağlama**==
 
 Uygulamanızı AdMob hesabınıza eklemek için ya Başlat butonu üzerinden ya da sol menüdeki Uygulamalar sekmesine tıklayın ve burada Uygulama Ekle butonuna tıklayın. Bu aşamada, uygulamanızın platformunu seçmeniz gerekecektir.
 
@@ -73,7 +73,7 @@ Uygulamanızı AdMob’a başarılı bir şekilde ekledikten sonra, uygulamanız
 
 Bu alanlarıda kendize uygun doldurduktan sonra reklam birimi başarıyla oluşturulmuş oluyor ve size reklam birimini uygulamanıza yerleştirmek için bilgilendirici ekran sunacaktır. Uygulamanıza uygun id ve reklam biriminize uygun id verecektir bunları bi yerde kopyaladıktan sonra Google Mobil Reklamlar SDK’sı Kılavuzundaki talimatları uygulamak lazım ardından seçtiğiniz reklam türüne uygun uygulama kılavuzunda talimatlara uygun biçimde ilerleyin. Bunların detayını sonraki başlıklarda anlatacağım.Şimdilik AdMob’a uygulama bağlama olayı kaba taslak bu şekildedir.
 
-## SDK Entegrasyonu Ve Teknik Ayarlar
+==**SDK Entegrasyonu Ve Teknik Ayarlar**==
 
 ![](https://miro.medium.com/v2/resize:fit:293/1*lYb9MKqrKz8gkoh3fZmADQ.jpeg)
 
@@ -208,7 +208,7 @@ public class MainActivity extends AppCompatActivity {
 
 Bu adımları da eksiksiz tamamlayabildiyseniz bi sonraki aşamaya yani reklam uygulama aşamasına geçebiliriz.
 
-## Uygulamanın Test Edilmesi
+==**Uygulamanın Test Edilmesi**==
 
 Reklam gösterme aşamasında Banner Reklam aşamasını sizlerle paylaşacağım ama diğer reklam çeşitlerinin projeye uygulanması konusunda yardımcı dökümanların linkleri Kaynaklar kısmına ekleyeceğim.
 
@@ -393,7 +393,7 @@ adView.setAdListener(new AdListener() {
 AdListener içindeki geçersiz kılınabilir yöntemlerin her biri, bir reklamın yaşam döngüsündeki bir etkinliğe karşılık gelir. Extradan video reklamlar için donanım hızlandırma aşamaları bulunmaktadır. Yazıma eklemek yerine yardımcı dökümanı Kaynaklar kısmında sizinle paylaşacağım.  
 Bu adımları tamamladıktan sonra işin çoğu bitmiş bulunuyor. Şimdi ince ayrıntılara girme zamanı. Bu aşamaya kadar okuduysanız bi takibinizi alırım :))
 
-## Firebase İle AdMob Entegrasyonu
+==**Firebase İle AdMob Entegrasyonu**==
 
 ![](https://miro.medium.com/v2/resize:fit:375/1*4UrlZUquD11zPW9kc71H5A.png)
 
@@ -403,7 +403,7 @@ Firebase SDK’sını Android veya iOS uygulamanıza entegre ettikten sonra, AdM
 
 Eğer uygulamanızda Firebase kullanıyorsanız, AdMob entegrasyonu için Firebase üzerinden işlem yapmanız gereklidir. Bu, daha verimli bir yönetim süreci ve gelişmiş analiz özellikleri sunar.
 
-## AdMob Reklam Biçimleri
+==**AdMob Reklam Biçimleri**==
 
 ![](https://miro.medium.com/v2/resize:fit:555/1*7-q8YyfdMVT56F54bp1cEg.jpeg)
 
@@ -427,7 +427,7 @@ Native reklamlar, uygulamanın görünümüne ve içeriğine uyum sağlayarak g�
 
 App Open reklamları, uygulama açıldığında gösterilen tam ekran reklamlardır. Bu reklamlar, genellikle kullanıcı uygulamayı ilk açtığında veya uzun süre sonra tekrar açtığında gösterilir.
 
-## AdMob İle Gelir Optimizasyonu
+==**AdMob İle Gelir Optimizasyonu**==
 
 Sadece reklamları uygulamanıza entegre etmek yeterli değildir. Geliriniz artırmak için doğru stratejiler uygulamak ve reklamların performansını sürekli olarak optimize etmek gereklidir.
 
@@ -439,13 +439,13 @@ AdMob, A/B testleri ile hangi reklam kombinasyonunun daha iyi performans göster
 
 ![](https://miro.medium.com/v2/resize:fit:435/1*suEtxjThJqMyzsSvYbHOiw.png)
 
-## AdMob Politikaları
+==**AdMob Politikaları**==
 
 Hesabınızın askıya alınmaması için bu odaklanarak okumanızı istiyorum. Belirli politikalarla hem reklma verenleri hem de kullanıcıları koruma altına alınması lazım. AdMob, platformunda yayımlanacak reklamlarının belirli standartlara ve etik kurallara uygun olmasını zorunlu kılar. Yasadışı içerikler, yanıltıcı reklamlar ve yanlış reklam yerleştirilmesi yasaktır tespiti durumunda hesabınız askıya alınır.
 
 Bunlarla beraber kullanıcı verisi, trafik manipilasyonu ve yerleşim stratejileri gibi alanlara da dikkat edilmesi gereken çok sayıda kural bulunur. Bunların ek detaylarını Kaynaklar kısmında sizlerle paylaşacağım.
 
-## AdMob Rakipleri
+==**AdMob Rakipleri**==
 
 - _Facebook Audience Network (FAN)_
 
@@ -479,7 +479,7 @@ Vungle, sadece video reklamları ve özellikle mobil oyunlar için optimize edil
 
 AdMob, mobil uygulama geliştiricileri için popüler bir reklam platformu olsa da, rakipleri de güçlü seçenekler sunmaktadır. Her platform, belirli kullanıcı gruplarına, reklam formatlarına veya gelir paylaşım stratejilerine göre farklı avantajlar sağlayabilir. Farklı platformlarda testler yaparak size uygun en iyi performansı veren reklam sağlayıcılarla çalışabilirsiniz.
 
-## Türkiye’de AdMob Gelirini Alabilme
+==**Türkiye’de AdMob Gelirini Alabilme**==
 
 ![](https://miro.medium.com/v2/resize:fit:281/1*6Bduv0zPv-Pe1LUMOAFjqg.png)
 
