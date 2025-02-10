@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Firebase/002 -Firestore Database.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firestore Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 -Firestore Database"
+              "title": "013 -Firestore Database"
             }
           },
           {
@@ -27,27 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Firebase/001 -Firebase Nedir.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firestore Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 -Firebase Nedir"
-            }
-          },
-          {
-            "id": "11c96ee35548c251",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-Resimler/Pasted image 20250203214443.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250203214443"
+              "title": "013 -Firestore Database"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,24 +179,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdac3b79c61f393b",
+  "active": "ea4d88620fbc838a",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/010 -Android App Architecture.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/008 -Activity Lifecycle.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/001 -Android'e Giriş.md",
     "Yazılım/Firebase/001 -Firebase Nedir.md",
-    "Yazılım/Firebase/002 -Firestore Database.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firestore Database.md",
+    "-Resimler/Pasted image 20250210153015.jpg",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/012 -Retrofit.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/011 -Coil.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/009 -Navigation Component.md",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/007 -MVVM ile Android’de Decoupled Yapılar.md",
+    "Yazılım/Firebase/002 -Firestore Database.md",
     "-Resimler/Pasted image 20250203214443.png",
     "-Resimler/Pasted image 20250203214453.jpg",
     "-Resimler/Pasted image 20250203213537.png",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/012 -Retrofit.md",
     "Yazılım/Firebase",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/007 -MVVM ile Android’de Decoupled Yapılar.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/011 -Coil.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/010 -Android App Architecture.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/006 -AdMob ile Mobil Reklamcılık.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/003 -Dalvik Ve ART Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/002 -Android NDK.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/008 -Activity Lifecycle.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/004 -ADB (Android Debug Bridge) Nedir.md",
     "000 -OHA.md",
     "000 -Obfuscate.md",
@@ -219,15 +211,12 @@
     "-Resimler/Pasted image 20250202143119.jpg",
     "-Resimler/Pasted image 20250202143112.jpg",
     "-Resimler/Pasted image 20250202142912.jpg",
-    "-Resimler/Pasted image 20250202142855.jpg",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/001 -Android'e Giriş.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/007 -Gradle Properties Dosyası (gradle.properties Global Properties).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/005 -ProGuard Rules (proguard-rules.pro).md",
     "gradle.properties",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Jetpack Compose",
