@@ -67,6 +67,16 @@ Kullanıcılar (Collection)
 - Firestore’da **koleksiyonlar içinde doğrudan başka koleksiyonlar olamaz**.
 - Yalnızca **dokümanlar içinde alt koleksiyonlar** oluşturulabilir.
 
+
+==**📌 Firestore ile Yapılabilecek İşlemler**==
+
+📍 **Veri Ekleme:** Yeni bir koleksiyon oluşturabilir ve içine döküman ekleyebilirsin.  
+📍 **Veri Okuma:** Belirli bir dökümanı veya tüm koleksiyonu okuyabilirsin.  
+📍 **Veri Güncelleme:** Mevcut döküman içindeki belirli alanları güncelleyebilirsin.  
+📍 **Veri Silme:** İstenilen dökümanı veya koleksiyonu tamamen silebilirsin.
+
+
+
 ==**Firestore Security Rules (Güvenlik Kuralları)**==
 Firestore, verilerin güvenliğini sağlamak için **Firebase Security Rules** sistemini kullanır.
 ```json
@@ -88,5 +98,8 @@ service cloud.firestore {
 }
 
 ```
-- Kullanıcı yalnızca **kendi verilerini okuyabilir ve düzenleyebilir**.
-- Kimliği doğrulanmamış kullanıcılar **verilere erişemez**.
+
+---
+
+
+***Abdullah TANRIVERDİ***
