@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firestore Database.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firebase Firestore Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013 -Firestore Database"
+              "title": "013 -Firebase Firestore Database"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firestore Database.md",
+                "file": "Yazılım/Firebase/003 -Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013 -Firestore Database"
+              "title": "003 -Storage"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Firebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,12 +181,17 @@
   },
   "active": "ea4d88620fbc838a",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/014 -Firebase Storage.md",
+    "-Resimler/Pasted image 20250210161015.png",
+    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firebase Firestore Database.md",
+    "Yazılım/Firebase/003 -Storage.md",
+    "-Resimler/Pasted image 20250210160504.png",
+    "-Resimler/Pasted image 20250210160454.png",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/010 -Android App Architecture.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/008 -Activity Lifecycle.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/001 -Android'e Giriş.md",
     "Yazılım/Firebase/001 -Firebase Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firestore Database.md",
     "-Resimler/Pasted image 20250210153015.jpg",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/012 -Retrofit.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/011 -Coil.md",
@@ -208,15 +213,10 @@
     "-Resimler/Pasted image 20250202142447.png",
     "-Resimler/Pasted image 20250202143356.jpg",
     "-Resimler/Pasted image 20250202143137.jpg",
-    "-Resimler/Pasted image 20250202143119.jpg",
-    "-Resimler/Pasted image 20250202143112.jpg",
-    "-Resimler/Pasted image 20250202142912.jpg",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/007 -Gradle Properties Dosyası (gradle.properties Global Properties).md",
     "gradle.properties",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Android",
     "Yazılım/Mobil Geliştirme/Android-Kotlin/Jetpack Compose",
