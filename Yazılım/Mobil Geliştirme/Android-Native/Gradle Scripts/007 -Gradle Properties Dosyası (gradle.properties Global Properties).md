@@ -1,5 +1,5 @@
 
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 
 **`gradle.properties` (Global Properties)** dosyası, Gradle yapılandırmasının genel ayarlarını içeren ve tüm projelerde kullanılabilen bir yapılandırma dosyasıdır. Bu dosya, özellikle performans ayarlarını optimize etmek ve proxy ayarlarını yönetmek için kullanılır.

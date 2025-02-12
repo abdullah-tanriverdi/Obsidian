@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 
 **Version Catalog** (Versiyon Kataloğu), Gradle projesinde kullanılan bağımlılıkların ve eklentilerin versiyonlarının merkezi bir şekilde yönetilmesini sağlayan bir yapılandırmadır. Bu, özellikle projelerde kullanılan çok sayıda bağımlılığın sürüm yönetimini kolaylaştırır ve sürüm uyuşmazlıklarını önler. Versiyon kataloğu, Gradle'ın sürüm 7.0 ve sonrasında sağladığı bir özelliktir.

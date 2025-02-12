@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 **`settings.gradle.kts`** dosyası, Android Studio projelerinde Gradle yapılandırma sisteminin başlangıç noktasıdır. Bu dosya, projenin global yapılandırmasını, modüllerin tanımlanmasını ve bağımlılık yönetimi ile ilgili temel ayarları içerir.
 

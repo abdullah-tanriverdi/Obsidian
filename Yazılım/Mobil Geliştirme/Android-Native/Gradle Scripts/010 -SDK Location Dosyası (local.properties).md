@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android #GradleScript 
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 **local.properties** dosyası, Android projelerinde genellikle **Android SDK** ve **NDK** gibi yerel geliştirme araçlarının yollarını belirten bir yapılandırma dosyasıdır. Bu dosya, proje seviyesinde yerel geliştirme ortamına özgü bilgileri tutar. Dolayısıyla, proje üzerinde çalışırken kullanılan SDK, NDK ve diğer araçların yolları burada tanımlanır.
 

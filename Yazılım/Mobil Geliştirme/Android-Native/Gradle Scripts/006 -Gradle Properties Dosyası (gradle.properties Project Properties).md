@@ -1,5 +1,5 @@
 
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 **`gradle.properties`** dosyası, Android projelerinde proje genelinde Gradle yapılandırmasını özelleştirmek için kullanılır. Bu dosya, JVM (Java Virtual Machine) ayarlarını, Android özelliklerini ve diğer yapılandırma parametrelerini içerir.
 

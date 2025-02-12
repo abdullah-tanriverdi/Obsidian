@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android 
+#Yazılım #MobilGeliştirme #Android-Native #Android-Kotlin
 ![[Pasted image 20250202142538.png|500]]
 
 Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim sistemidir. Linux tabanlı olan Android, başta akıllı telefonlar ve tabletler olmak üzere birçok farklı cihazda kullanılır.

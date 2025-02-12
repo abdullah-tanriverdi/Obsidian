@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 
 ![[Pasted image 20250127004519.png]]

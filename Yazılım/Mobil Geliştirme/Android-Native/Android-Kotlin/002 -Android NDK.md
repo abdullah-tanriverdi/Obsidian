@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android
+#Yazılım #MobilGeliştirme #Android-Native #Android-Kotlin
 ![[AndroidNdk.png|650]]
 
 ==**Android NDK (Native Development Kit)**==

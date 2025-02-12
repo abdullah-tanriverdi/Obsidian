@@ -1,5 +1,5 @@
 
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 **`gradle-wrapper.properties`** dosyası, Gradle Wrapper’ın yapılandırmasını tanımlayan bir dosyadır. Bu dosya, projede kullanılan Gradle sürümünü belirler ve Gradle Wrapper’ın indirme işlemlerini yönetir.
 

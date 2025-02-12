@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 **Module-level `build.gradle` dosyası**, belirli bir modülün nasıl derleneceğini, hangi bağımlılıkları kullanacağını ve yapılandırma ayarlarını içerir. Android projelerinde genellikle `app` adlı bir uygulama modülü bulunur ve bu dosya, o modülün yapılandırmasını belirler.
 

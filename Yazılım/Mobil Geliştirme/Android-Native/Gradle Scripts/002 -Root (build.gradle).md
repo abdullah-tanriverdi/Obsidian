@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 Proje düzeyindeki `build.gradle` dosyası, tüm modüller için ortak yapılandırmaların yer aldığı ve paylaşılan bağımlılıkların yönetildiği yerdir. Bu dosya, projenin temel yapı taşlarını oluşturur ve genellikle yalnızca bir tane bulunur.
 

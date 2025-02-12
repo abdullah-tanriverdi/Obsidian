@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdac3b79c61f393b",
+            "id": "5c5706e1efc19276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firebase Firestore Database.md",
-                "mode": "source",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/001 -Jetpack Compose Nedir.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013 -Firebase Firestore Database"
-            }
-          },
-          {
-            "id": "ea4d88620fbc838a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Firebase/003 -Storage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "003 -Storage"
+              "title": "001 -Jetpack Compose Nedir"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Firebase",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,50 +164,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea4d88620fbc838a",
+  "active": "5c5706e1efc19276",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/014 -Firebase Storage.md",
+    "-Resimler/Pasted image 20250213015009.png",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/001 -Jetpack Compose Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/014 -Firebase Storage.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
+    "Pasted image 20250213015009.png",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/002 -Android NDK.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/003 -Dalvik Ve ART Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/004 -ADB (Android Debug Bridge) Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/005 -Android Tarihi ve Gelişimi.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/006 -AdMob ile Mobil Reklamcılık.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/007 -MVVM ile Android’de Decoupled Yapılar.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/008 -Activity Lifecycle.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/009 -Navigation Component.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/013 -Firebase Firestore Database.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/007 -Gradle Properties Dosyası (gradle.properties Global Properties).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/005 -ProGuard Rules (proguard-rules.pro).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/004 -Project Settings (settings.gradle).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/003 -Module (build.gradle).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/002 -Root (build.gradle).md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/001 -Gradle Script Nedir.md",
+    "Yazılım/Firebase/001 -Firebase Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/012 -Retrofit.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/011 -Coil.md",
     "-Resimler/Pasted image 20250210161015.png",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/013 -Firebase Firestore Database.md",
-    "Yazılım/Firebase/003 -Storage.md",
     "-Resimler/Pasted image 20250210160504.png",
     "-Resimler/Pasted image 20250210160454.png",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/010 -Android App Architecture.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/008 -Activity Lifecycle.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/005 -Android Tarihi ve Gelişimi.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/001 -Android'e Giriş.md",
-    "Yazılım/Firebase/001 -Firebase Nedir.md",
     "-Resimler/Pasted image 20250210153015.jpg",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/012 -Retrofit.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/011 -Coil.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/009 -Navigation Component.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/007 -MVVM ile Android’de Decoupled Yapılar.md",
-    "Yazılım/Firebase/002 -Firestore Database.md",
     "-Resimler/Pasted image 20250203214443.png",
     "-Resimler/Pasted image 20250203214453.jpg",
     "-Resimler/Pasted image 20250203213537.png",
     "Yazılım/Firebase",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/006 -AdMob ile Mobil Reklamcılık.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/003 -Dalvik Ve ART Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/002 -Android NDK.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android/004 -ADB (Android Debug Bridge) Nedir.md",
-    "000 -OHA.md",
-    "000 -Obfuscate.md",
-    "000 -Minify.md",
-    "000 -HTC Dream.md",
     "-Resimler/Pasted image 20250202142447.png",
     "-Resimler/Pasted image 20250202143356.jpg",
-    "-Resimler/Pasted image 20250202143137.jpg",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/001 -Gradle Script Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
     "gradle.properties",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Android",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Jetpack Compose",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin/Gradle Scripts",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts",
     "Yazılım/Yazılım Jargonları",
-    "Yazılım/Mobil Geliştirme/Android-Kotlin",
+    "Yazılım/Mobil Geliştirme/Android-Native",
     "Yazılım/Mobil Geliştirme",
     "Yazılım",
     "-Resimler"

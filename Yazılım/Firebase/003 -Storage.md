@@ -22,7 +22,7 @@ Firebase Storage'da her dosya belirli bir yolda depolanır. Bu yol, dosyaların 
 Firebase Storage, her yüklenen dosya için benzersiz bir URL oluşturur. Bu URL, dosyaya erişim sağlamak için kullanılabilir. Ayrıca, bu URL'ler zaman sınırlı erişim izni veren güvenlik token’larıyla sağlanabilir. Bu, belirli bir süre için dosyaların erişilebilir olmasını sağlar.
 
 
-==**0Dosya Silme**==
+==**Dosya Silme**==
 
 Firebase Storage'da, gereksiz dosyaları silmek oldukça kolaydır. Yüklenen dosyalar, ilgili referansları kullanılarak silinebilir. Bu, depolama alanında yer açmak için gereklidir.
 

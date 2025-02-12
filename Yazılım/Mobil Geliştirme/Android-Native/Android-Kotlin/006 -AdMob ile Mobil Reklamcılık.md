@@ -1,4 +1,4 @@
-#Yazılım  #MobilGeliştirme #Android 
+#Yazılım #MobilGeliştirme #Android-Native #Android-Kotlin
 
 Herkese merhaba, bu yazımda AdMob’u daha yakından tanıyacağız ve mobil uygulama geliştiricilerin nasıl AdMob üzerinden reklam geliri elde edebileceğine dair detayları anlatacağım. Hemen aşağıda yazımın içindekiler kısmında nelerden bahsettiğimi görebilirsiniz. Keyifli okumalar. :)
 

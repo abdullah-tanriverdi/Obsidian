@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android 
+#Yazılım #MobilGeliştirme #Android-Native #Android-Kotlin
 ![[Pasted image 20250107140556.png]]
 
 Android'deki **Coil** (İngilizce: _Coil_), modern bir görüntü yükleme kütüphanesidir. Android uygulamalarında resimlerin yüklenmesi, önbelleğe alınması ve işlenmesi işlemleri genellikle karmaşık olabilir. Coil, bu işlemleri daha hızlı ve verimli bir şekilde yapabilmek için tasarlanmıştır.

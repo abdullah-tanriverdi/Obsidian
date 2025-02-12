@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android
+#Yazılım #MobilGeliştirme #Android-Native #Android-Kotlin
 
 
 ![[mvvm 1.jpg]]

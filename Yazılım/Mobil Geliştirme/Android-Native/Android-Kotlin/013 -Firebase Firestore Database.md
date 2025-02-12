@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android 
+#Yazılım #MobilGeliştirme #Android-Native #Android-Kotlin
 
 
 ![[Pasted image 20250210153015.jpg]]

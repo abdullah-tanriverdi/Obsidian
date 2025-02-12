@@ -1,4 +1,4 @@
-#Yazılım #MobilGeliştirme #Android #GradleScript
+#Yazılım #MobilGeliştirme #Android-Native  #GradleScript
 
 **ProGuard**, Android uygulamalarında kodu sıkıştırmak (minify), optimize etmek ve karıştırmak (obfuscate) için kullanılan bir araçtır. **`proguard-rules.pro`** dosyası, ProGuard'ın nasıl çalışacağını belirleyen özelleştirilmiş kurallar içerir.
 
