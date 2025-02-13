@@ -100,3 +100,4 @@ class MyActivity : AppCompatActivity() {
 ***
 
 ***Abdullah TANRIVERDİ***
+

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/006 -Button Bileşeni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 -Text Bileşeni"
+              "title": "006 -Button Bileşeni"
             }
           }
         ],
@@ -182,6 +182,7 @@
   "active": "08343d3908b704ff",
   "lastOpenFiles": [
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/006 -Button Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/001 -Jetpack Compose Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/003 -State Management.md",
@@ -210,7 +211,6 @@
     "Pasted image 20250213015009.png",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/002 -Android NDK.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/003 -Dalvik Ve ART Nedir.md",
     "-Resimler/Pasted image 20250210161015.png",
     "-Resimler/Pasted image 20250210160504.png",
     "-Resimler/Pasted image 20250210160454.png",
