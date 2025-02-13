@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/007 -Spacer Bileşeni.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "007 -Spacer Bileşeni"
+              "title": "008 -Divider Bileşeni"
             }
           }
         ],
@@ -182,6 +182,7 @@
   "active": "08343d3908b704ff",
   "lastOpenFiles": [
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/007 -Spacer Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/006 -Button Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
@@ -210,7 +211,6 @@
     "-Resimler/Pasted image 20250213015009.png",
     "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
     "Pasted image 20250213015009.png",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
     "-Resimler/Pasted image 20250210161015.png",
     "-Resimler/Pasted image 20250210160504.png",
     "-Resimler/Pasted image 20250210160454.png",
