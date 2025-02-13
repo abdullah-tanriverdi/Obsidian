@@ -108,6 +108,16 @@ fun SnackbarExample() {
 
 ```
 
+
+
+|**Parametre**|**Açıklama**|
+|---|---|
+|`topBar`|Üst çubuk (AppBar) ekler.|
+|`bottomBar`|Alt çubuk (Bottom Navigation) ekler.|
+|`floatingActionButton`|Sağ altta yüzen bir buton ekler.|
+|`drawerContent`|Yan menü (Drawer) ekler.|
+|`snackbarHost`|Kullanıcıya bildirim göstermek için Snackbar ekler.|
+
 ---
 
 ***Abdullah TANRIVERDİ***
