@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/009 -TextField Bileşeni.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/010 -Image Bileşeni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009 -TextField Bileşeni"
+              "title": "010 -Image Bileşeni"
             }
           }
         ],
@@ -181,8 +181,9 @@
   },
   "active": "08343d3908b704ff",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/009 -TextField Bileşeni.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/010 -Image Bileşeni.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/007 -Spacer Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/006 -Button Bileşeni.md",
@@ -207,7 +208,6 @@
     "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
     "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
     "-Resimler/Pasted image 20250213034506.png",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/002 -Jetpack Compose Anotasyonları.md",
     "Pasted image 20250213034506.png",
     "-Resimler/Pasted image 20250213015009.png",
     "Pasted image 20250213015009.png",
