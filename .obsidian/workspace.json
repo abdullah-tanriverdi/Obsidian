@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/011 -Card Bileşeni.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/012 -Layout Bileşenleri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "011 -Card Bileşeni"
+              "title": "012 -Layout Bileşenleri"
             }
           }
         ],
@@ -181,8 +181,9 @@
   },
   "active": "08343d3908b704ff",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/010 -Image Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/011 -Card Bileşeni.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/012 -Layout Bileşenleri.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/010 -Image Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/009 -TextField Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
@@ -206,7 +207,6 @@
     "Yazılım/Firebase/001 -Firebase Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/001 -Gradle Script Nedir.md",
     "Yazılım/Yazılım Jargonları/003 -Gradle Nedir.md",
-    "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
     "-Resimler/Pasted image 20250213034506.png",
     "Pasted image 20250213034506.png",
     "-Resimler/Pasted image 20250213015009.png",
