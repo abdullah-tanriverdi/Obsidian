@@ -6,7 +6,7 @@ Gradle, Android projelerinde yazılım geliştirme süreçlerini yönetmek için
 
 
 > [!tip] İPUCU
-> Gradle hakkında genel bilgi almak için [[003 -Gradle Nedir]] notunu incelleyebilirsin.
+> Gradle hakkında genel bilgi almak için [[003 -Gradle]] notunu incelleyebilirsin.
 > 
 
 
