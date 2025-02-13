@@ -3,6 +3,11 @@
 
 ![[Pasted image 20250210153015.jpg]]
 
+
+> [!tip] İPUCU
+> Firestore Nedir hakkında bilgi almak için [[002 -Firestore Database]]
+
+
 ==**Firestore’u Android Projesine Ekleme**==
 
 **Adım 1: Firebase SDK’yı Projeye Dahil Etme**

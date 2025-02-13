@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/003 -State Management.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 -State Management"
-            }
-          },
-          {
-            "id": "50af94b07b853fa6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "004 -LaunchedEffect Nedir"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -174,44 +164,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50af94b07b853fa6",
+  "active": "c1d1e358434b9b47",
   "lastOpenFiles": [
-    "-Resimler/Pasted image 20250213034506.png",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/001 -Jetpack Compose Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/003 -State Management.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/010 -Android App Architecture.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/009 -Navigation Component.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/008 -Activity Lifecycle.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/007 -MVVM ile Android’de Decoupled Yapılar.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/006 -AdMob ile Mobil Reklamcılık.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/005 -Android Tarihi ve Gelişimi.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/004 -ADB (Android Debug Bridge) Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/011 -Coil.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/012 -Retrofit.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/014 -Firebase Storage.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/013 -Firebase Firestore Database.md",
+    "Yazılım/Firebase/002 -Firestore Database.md",
+    "Yazılım/Firebase/001 -Firebase Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/001 -Gradle Script Nedir.md",
+    "Yazılım/Yazılım Jargonları/003 -Gradle Nedir.md",
+    "Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler Nedir.md",
+    "Yazılım/Yazılım Jargonları/001 -SDK Nedir.md",
+    "-Resimler/Pasted image 20250213034506.png",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/002 -Jetpack Compose Anotasyonları.md",
     "Pasted image 20250213034506.png",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/001 -Jetpack Compose Nedir.md",
     "-Resimler/Pasted image 20250213015009.png",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/014 -Firebase Storage.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
     "Pasted image 20250213015009.png",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/002 -Android NDK.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/003 -Dalvik Ve ART Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/004 -ADB (Android Debug Bridge) Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/005 -Android Tarihi ve Gelişimi.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/006 -AdMob ile Mobil Reklamcılık.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/007 -MVVM ile Android’de Decoupled Yapılar.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/008 -Activity Lifecycle.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/009 -Navigation Component.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/013 -Firebase Firestore Database.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/009 -Version Catalog Dosyası (libs.versions.toml).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/008 -Gradle Wrapper Properties Dosyası (gradle-wrapper.properties Gradle Version).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/007 -Gradle Properties Dosyası (gradle.properties Global Properties).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/006 -Gradle Properties Dosyası (gradle.properties Project Properties).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/005 -ProGuard Rules (proguard-rules.pro).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/004 -Project Settings (settings.gradle).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/003 -Module (build.gradle).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/002 -Root (build.gradle).md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/001 -Gradle Script Nedir.md",
-    "Yazılım/Firebase/001 -Firebase Nedir.md",
     "-Resimler/Pasted image 20250210161015.png",
     "-Resimler/Pasted image 20250210160504.png",
     "-Resimler/Pasted image 20250210160454.png",
     "-Resimler/Pasted image 20250210153015.jpg",
     "-Resimler/Pasted image 20250203214443.png",
     "-Resimler/Pasted image 20250203214453.jpg",
-    "-Resimler/Pasted image 20250203213537.png",
     "Yazılım/Firebase",
     "gradle.properties",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin",
