@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/017 -Alert Dialog.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/017 -Coroutines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "017 -Alert Dialog"
+              "title": "017 -Coroutines"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,22 +174,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1d1e358434b9b47",
+  "active": "fc67b1583a19ec6c",
   "lastOpenFiles": [
+    "-Resimler/Pasted image 20250216232125.png",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/017 -Coroutines.md",
+    "Pasted image 20250216232125.png",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/016 -Null Safety.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/015 -Image Picker.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/012 -Retrofit.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/017 -Alert Dialog.md",
     "-Resimler/Pasted image 20250216225944.png",
     "-Resimler/Pasted image 20250216225930.png",
     "Pasted image 20250216225944.png",
     "Pasted image 20250216225930.png",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/016 -Gesture Detection.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/015 -Material Design.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/017 -Alert Dialog.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/011 -Card Bileşeni.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/012 -Retrofit.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/016 -Null Safety.md",
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/010 -Android App Architecture.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/015 -Image Picker.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/013 -Firebase Firestore Database.md",
     "Yazılım/Yazılım Jargonları/006 -Source Code.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Gradle Scripts/010 -SDK Location Dosyası (local.properties).md",
@@ -205,14 +209,11 @@
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/010 -Image Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/009 -TextField Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/007 -Spacer Bileşeni.md",
     "-Resimler/Pasted image 20250213034506.png",
     "Pasted image 20250213034506.png",
     "-Resimler/Pasted image 20250213015009.png",
     "Pasted image 20250213015009.png",
     "-Resimler/Pasted image 20250210161015.png",
-    "-Resimler/Pasted image 20250210160504.png",
-    "-Resimler/Pasted image 20250210160454.png",
     "Yazılım/Firebase",
     "gradle.properties",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin",
