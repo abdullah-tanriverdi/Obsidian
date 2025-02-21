@@ -115,12 +115,12 @@ fun main() = runBlocking {
 ==**Coroutine Dispatcher – İş Parçacığı Yönetimi**==
 Coroutines farklı **Dispatcher** kullanarak farklı iş parçacıklarında çalışabilir.
 
-|**Dispatcher**|**Açıklama**|
-|---|---|
-|`Dispatchers.Default`|CPU yoğun işlemler için (paralel çalışır).|
-|`Dispatchers.IO`|Ağ veya disk işlemleri için (arka planda çalışır).|
-|`Dispatchers.Main`|UI işlemleri için (Android’de ana thread).|
-|`Dispatchers.Unconfined`|Bulunduğu thread’de çalışır, ihtiyaca göre değişir.|
+| **Dispatcher**           | **Açıklama**                                        |
+| ------------------------ | --------------------------------------------------- |
+| `Dispatchers.Default`    | CPU yoğun işlemler için (paralel çalışır).          |
+| `Dispatchers.IO`         | Ağ veya disk işlemleri için (arka planda çalışır).  |
+| `Dispatchers.Main`       | UI işlemleri için (Android’de ana thread).          |
+
 ```kotlin
 import kotlinx.coroutines.*
 
@@ -206,6 +206,8 @@ fun main() = runBlocking {
 ✅ **`Dispatchers.IO`, `Dispatchers.Default`, `Dispatchers.Main`** ile iş parçacığı yönetilir.  
 ✅ **`async {}` ve `await()`** ile paralel işlemler yapılabilir.  
 ✅ **`withContext {}`** ile farklı dispatcher’a geçiş yapılır.
+
+
 
 
 ---
