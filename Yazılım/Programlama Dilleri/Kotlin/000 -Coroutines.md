@@ -1,4 +1,4 @@
-#Yazılım #PD
+#Yazılım #PD #Kotlin 
 
 ![[Pasted image 20250216232125.png|500]]
 Coroutines, Kotlin'in asenkron işlemleri yönetmek için sunduğu **hafif** iş parçacıklarıdır. Geleneksel iş parçacıklarına (Threads) göre daha verimli ve yönetimi kolaydır.
@@ -344,6 +344,34 @@ job.invokeOnCompletion { exception ->
 }
 
 ```
+
+**SupervisorJob Kullanımı**
+
+**SupervisorJob**, alt coroutine'lerde oluşan hataların, üst coroutine'i etkilemesini engeller. Bu, hataların izole edilmesine ve bir coroutine'in başarısız olmasının diğer coroutine'leri etkilememesine olanak tanır.
+```kotlin
+val supervisor = SupervisorJob()
+
+val job = CoroutineScope(Dispatchers.Default + supervisor).launch {
+    launch {
+        throw Exception("Something went wrong in the child coroutine")
+    }
+    println("This will still run even if the previous coroutine failed")
+}
+
+job.invokeOnCompletion { exception ->
+    if (exception != null) {
+        println("Error: $exception")
+    }
+}
+
+```
+
+- **`SupervisorJob`** ile coroutine scope'u oluşturulmuştur. Eğer bir alt coroutine (child coroutine) hata alırsa, bu hata sadece o coroutine’i etkiler. Ancak **`SupervisorJob`** sayesinde, **"Bu hala çalışacak"** mesajı yazdırılmaya devam eder.
+    
+- **`invokeOnCompletion`** callback'inde, **`exception`** parametresi null değilse hata mesajı yazdırılır. Bu, hataların düzgün bir şekilde yakalanmasını sağlar.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e7tKQDJsTGs" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 ***Abdullah TANRIVERDİ***
