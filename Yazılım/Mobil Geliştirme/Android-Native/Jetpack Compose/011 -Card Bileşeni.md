@@ -58,6 +58,29 @@ Card(
 
 ```
 
+
+- `Card` bileşeninin **arka plan rengini** değiştirmek için **colors = CardDefaults.cardColors()** kullanılabilir.
+
+```kotlin
+@Composable
+fun ColoredCardExample() {
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(16.dp),
+        elevation = 6.dp,
+        colors = CardDefaults.cardColors(containerColor = Color.LightBlue) // Arka plan rengini değiştirir
+    ) {
+        Text(
+            text = "Arka Planı Değiştirilmiş Kart",
+            fontSize = 20.sp,
+            modifier = Modifier.padding(16.dp)
+        )
+    }
+}
+
+```
+
 ---
 
 ***Abdullah TANRIVERDİ***
