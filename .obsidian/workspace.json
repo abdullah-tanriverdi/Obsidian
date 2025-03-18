@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/011 -Card Bileşeni.md",
+                "file": "Yazılım/Veri Bilimi/004 -Numpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "011 -Card Bileşeni"
+              "title": "004 -Numpy"
             }
           },
           {
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -175,12 +176,12 @@
   },
   "active": "669366ee697b9eba",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/011 -Card Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/015 -Material Design.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/016 -Gesture Detection.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/010 -Image Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/009 -TextField Bileşeni.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/011 -Card Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/014 -Circular Progress Indicator.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/006 -Button Bileşeni.md",
