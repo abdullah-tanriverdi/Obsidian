@@ -1,5 +1,8 @@
 #Yazılım #VeriBilimi 
 
+![[numpy.png]]
+
+
 NumPy (**Numerical Python**), büyük çok boyutlu dizileri (array) ve matrisleri işlemek için kullanılan bir Python kütüphanesidir. Ayrıca bu diziler üzerinde yüksek performanslı matematiksel işlemler yapmamıza olanak tanır.
 
 ==**NumPy'nin Avantajları**==
@@ -289,6 +292,17 @@ print(np.random.randint(1, 10, (2, 2)))  # 1-10 arasında rastgele tamsayı matr
 print(np.random.normal(0, 1, (3, 3)))  # Normal dağılım
 print(np.random.choice([10, 20, 30, 40]))  # Belirtilen diziden rastgele seçim
 ```
+
+Fancy İndeksleme ve Boolean İndeksleme
+```python
+arr = np.array([10, 20, 30, 40, 50])
+index = [0, 2, 4]
+print(arr[index])  # 0., 2. ve 4. elemanları getirir
+
+bool_arr = arr > 25  # 25'ten büyük olanları seç
+print(arr[bool_arr])
+```
+
 
 
 ```python
