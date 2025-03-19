@@ -1,4 +1,4 @@
-
+#Yazılım #VeriBilimi 
 ![[pandas.png]]
 
 Pandas, Python programlama dilinde veri analizi ve manipülasyonu için kullanılan güçlü bir kütüphanedir. Veri biliminde yaygın olarak kullanılır ve özellikle tablo şeklindeki veriler üzerinde işlem yapmak için uygundur.

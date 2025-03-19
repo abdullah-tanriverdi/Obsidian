@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Veri Bilimi/005 -Pandas.md",
+                "file": "Yazılım/Veri Bilimi/006 -Matplotlib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 -Pandas"
+              "title": "006 -Matplotlib"
             }
           },
           {
@@ -181,7 +181,11 @@
   "active": "669366ee697b9eba",
   "lastOpenFiles": [
     "Yazılım/Veri Bilimi/004 -Numpy.md",
+    "Yazılım/Veri Bilimi/006 -Matplotlib.md",
     "Yazılım/Veri Bilimi/005 -Pandas.md",
+    "Yazılım/Veri Bilimi/003 -Kaggle.md",
+    "Yazılım/Veri Bilimi/002 -Temel Kavramlar.md",
+    "Yazılım/Veri Bilimi/001 -Veri Bilimi Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/011 -Card Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/015 -Material Design.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/016 -Gesture Detection.md",
@@ -193,20 +197,16 @@
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/006 -Button Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/007 -Spacer Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/019 -Modifier.md",
-    "Yazılım/Veri Bilimi/003 -Kaggle.md",
-    "Yazılım/Veri Bilimi/002 -Temel Kavramlar.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/012 -Layout Bileşenleri.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/009 -Navigation Component.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
     "Yazılım/Programlama Dilleri/Kotlin/001 -Coroutines.md",
-    "Yazılım/Veri Bilimi/001 -Veri Bilimi Nedir.md",
     "Yazılım/Veri Bilimi",
     "Yazılım/Untitled.md",
     "Yazılım/Programlama Dilleri/Kotlin/002 - Kotlin Multiplatform.md",
     "Yazılım/Yazılım Jargonları/006 -Source Code.md",
     "Yazılım/Yazılım Jargonları/005 -Garbage Collector.md",
-    "Yazılım/Yazılım Jargonları/004 -Exception Handling.md",
     "-Resimler/Pasted image 20250216232125.png",
     "Pasted image 20250216232125.png",
     "-Resimler/Pasted image 20250216225944.png",
