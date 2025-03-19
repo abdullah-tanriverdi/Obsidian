@@ -1,4 +1,4 @@
-#Yazılım #VeriBilimi  
+#Yazılım #VeriBilimi 
 
 ![[matplotlib.png|500]]
 
