@@ -3,6 +3,14 @@
 ==**Scaffold Nedir**==
 `Scaffold`, Jetpack Compose'da temel uygulama iskeleti oluşturan bir bileşendir.
 
+|Bileşen|Açıklama|
+|---|---|
+|**`topBar`**|Sayfanın üst kısmında yer alan **App Bar** (Başlık Çubuğu)|
+|**`bottomBar`**|Sayfanın alt kısmında bulunan **Bottom Navigation Bar**|
+|**`floatingActionButton`**|Sayfanın köşesinde duran **FAB butonu**|
+|**`drawerContent`**|**Yan menü (Drawer Navigation)** içeriği|
+|**`content`**|Sayfanın ana içeriği|
+
 **Temel Kullanım**
 Scaffold içinde genellikle topBar, bottomBar, floatingActionButton gibi bileşenler kullanılır.
 ```kotlin
@@ -26,26 +34,55 @@ Scaffold(
 Scaffold(
     topBar = {
         TopAppBar(
-            title = { Text("Başlık") },
-            backgroundColor = Color.Blue,
-            contentColor = Color.White
+        title = {
+            Text(
+                text = "Jotter",
+                fontSize = 20.sp,
+                textAlign = TextAlign.Center
+            )
+        },
+        navigationIcon = {
+            IconButton(onClick = { /* Geri gitme işlemi */ }) {
+                Icon(Icons.Default.ArrowBack, contentDescription = "Geri Dön")
+            }
+        },
+        actions = {
+            IconButton(onClick = { /* Arama işlemi */ }) {
+                Icon(Icons.Default.Search, contentDescription = "Ara")
+            }
+        },
+        colors = TopAppBarDefaults.topAppBarColors(
+            containerColor = Color(0xFF6200EA), // Arka plan rengi
+            titleContentColor = Color.White // Başlık rengi
         )
-    },
-    content = { padding -> Text("İçerik Alanı", modifier = Modifier.padding(padding)) }
+    )}
 )
 
 ```
+
 
 - **Bottom Bar (Alt Çubuk)**
 `bottomBar` parametresi ile **alt gezinti çubuğu (Bottom Navigation Bar)** eklenir.
 ```kotlin
 Scaffold(
     bottomBar = {
-        BottomAppBar {
-            Text("Alt Çubuk")
+        BottomAppBar(
+        containerColor = Color(0xFF6200EA), // Arka plan rengi
+        contentColor = Color.White // İkon rengi
+    ) {
+        IconButton(onClick = { /* Ana Sayfa */ }) {
+            Icon(Icons.Default.Home, contentDescription = "Ana Sayfa")
         }
-    },
-    content = { padding -> Text("Ana İçerik", modifier = Modifier.padding(padding)) }
+        IconButton(onClick = { /* Arama */ }) {
+            Icon(Icons.Default.Search, contentDescription = "Arama")
+        }
+        IconButton(onClick = { /* Favoriler */ }) {
+            Icon(Icons.Default.Favorite, contentDescription = "Favoriler")
+        }
+        IconButton(onClick = { /* Profil */ }) {
+            Icon(Icons.Default.Person, contentDescription = "Profil")
+        }
+    } }
 )
 
 ```
@@ -61,6 +98,26 @@ Scaffold(
         }
     },
     content = { padding -> Text("Ana İçerik", modifier = Modifier.padding(padding)) }
+)
+
+```
+
+
+```kotlin
+SmallFloatingActionButton(
+    onClick = { /* İşlem */ }
+) {
+    Icon(Icons.Default.Add, contentDescription = "Küçük FAB")
+}
+
+```
+
+```kotlin
+ExtendedFloatingActionButton(
+    onClick = { /* İşlem */ },
+    elevation = FloatingActionButtonDefaults.elevation(8.dp) //Gölgelendirme
+    icon = { Icon(Icons.Default.Add, contentDescription = "Ekle") },
+    text = { Text("Yeni Not") }
 )
 
 ```

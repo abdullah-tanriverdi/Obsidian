@@ -13,30 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Veri Bilimi/004 -Numpy.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/020 -DropDown Menu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004 -Numpy"
+              "title": "020 -DropDown Menu"
             }
           },
           {
             "id": "2d363841b2d944cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Veri Bilimi/008 -Temel Veri Bilimi Terimleri.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "008 -Temel Veri Bilimi Terimleri"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d363841b2d944cd",
+  "active": "669366ee697b9eba",
   "lastOpenFiles": [
+    "-Resimler/Pasted image 20250320104657.png",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/019 -Modifier.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/018 -NavHost.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/020 -DropDown Menu.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/013 -Scaffold Bileşeni.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/017 -Alert Dialog.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/012 -Layout Bileşenleri.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/003 -State Management.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/001 -Jetpack Compose Nedir.md",
     "Yazılım/Veri Bilimi/004 -Numpy.md",
     "Yazılım/Veri Bilimi/008 -Temel Veri Bilimi Terimleri.md",
     "Yazılım/Veri Bilimi/007 -Seaborn.md",
@@ -197,17 +202,7 @@
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/009 -TextField Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/014 -Circular Progress Indicator.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/006 -Button Bileşeni.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/007 -Spacer Bileşeni.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/019 -Modifier.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/012 -Layout Bileşenleri.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/009 -Navigation Component.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
-    "Yazılım/Programlama Dilleri/Kotlin/001 -Coroutines.md",
     "Yazılım/Veri Bilimi",
-    "Yazılım/Untitled.md",
-    "Yazılım/Programlama Dilleri/Kotlin/002 - Kotlin Multiplatform.md",
     "-Resimler/Pasted image 20250216232125.png",
     "Pasted image 20250216232125.png",
     "-Resimler/Pasted image 20250216225944.png",

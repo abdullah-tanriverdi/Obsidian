@@ -11,6 +11,8 @@ AlertDialog, kullanıcılara önemli mesajlar göstermek ve onlardan geri bildir
 fun MyAlertDialog(showDialog: Boolean, onDismiss: () -> Unit, onConfirm: () -> Unit) {
     if (showDialog) {
         AlertDialog(
+     // onDismissRequest = {} Boş bırakılırsa kapatılmaz
+     //properties = DialogProperties(dismissOnBackPress = false, dismissOnClickOutside = false)
             onDismissRequest = onDismiss,
             title = { Text(text = "Uyarı") },
             text = { Text(text = "Bu işlemi yapmak istediğinizden emin misiniz?") },
@@ -29,7 +31,8 @@ fun MyAlertDialog(showDialog: Boolean, onDismiss: () -> Unit, onConfirm: () -> U
 }
 ```
 
-
+✔️ **`dismissOnBackPress = false`** → Geri tuşu ile kapatmayı engeller.  
+✔️ **`dismissOnClickOutside = false`** → Boş alana tıklayınca kapatmayı engeller.
 - `AlertDialog`, kullanıcıdan onay almak veya önemli bilgiler göstermek için kullanılır.
 - `onDismissRequest`, `title`, `text`, `confirmButton` ve `dismissButton` gibi temel parametrelerle çalışır.
 - `remember` ve `mutableStateOf` kullanarak diyalog gösterme/kapatma işlemi kontrol edilir.

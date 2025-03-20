@@ -1,6 +1,5 @@
 #Yazılım #MobilGeliştirme #Android-Native  #JetpackCompose 
 
-#Yazılım #MobilGeliştirme #Android-Kotlin 
 
 ![[Modifier.png]]
 
