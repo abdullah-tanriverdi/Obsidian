@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/020 -DropDown Menu.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/021 -Splash Screen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "020 -DropDown Menu"
+              "title": "021 -Splash Screen"
             }
           },
           {
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -176,12 +175,14 @@
   },
   "active": "669366ee697b9eba",
   "lastOpenFiles": [
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/017 -Alert Dialog.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/021 -Splash Screen.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/011 -Coil.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/020 -DropDown Menu.md",
     "-Resimler/Pasted image 20250320104657.png",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/019 -Modifier.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/018 -NavHost.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/020 -DropDown Menu.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/013 -Scaffold Bileşeni.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/017 -Alert Dialog.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/012 -Layout Bileşenleri.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/003 -State Management.md",
@@ -201,7 +202,6 @@
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/008 -Divider Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/009 -TextField Bileşeni.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/014 -Circular Progress Indicator.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/005 -Text Bileşeni.md",
     "Yazılım/Veri Bilimi",
     "-Resimler/Pasted image 20250216232125.png",
     "Pasted image 20250216232125.png",
@@ -214,7 +214,6 @@
     "-Resimler/Pasted image 20250213034506.png",
     "Pasted image 20250213034506.png",
     "-Resimler/Pasted image 20250213015009.png",
-    "Pasted image 20250213015009.png",
     "Yazılım/Firebase",
     "gradle.properties",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin",

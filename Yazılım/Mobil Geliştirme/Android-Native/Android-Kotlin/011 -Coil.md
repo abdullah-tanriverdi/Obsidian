@@ -64,6 +64,17 @@ fun PreviewImageFromUrl() {
     ImageFromUrl()
 }
 
+
+
+@Composable
+fun SimpleAsyncImage() {
+    AsyncImage(
+        model = "https://example.com/image.jpg",
+        contentDescription = "Örnek Resim",
+        modifier = Modifier.size(150.dp)
+    )
+}
+
 ```
 Bu örnekte, `rememberImagePainter` ile URL'den bir görsel yükleniyor ve bu görsel `Image` composable'ı ile ekranda gösteriliyor.
 
@@ -94,6 +105,27 @@ fun ImageFromUrlWithPlaceholder() {
     Image(painter = painter, contentDescription = "Image", modifier = Modifier.fillMaxWidth())
 }
 
+
+
+@Composable
+fun ImageWithPlaceholder() {
+    val context = LocalContext.current
+    val painter = rememberAsyncImagePainter(
+        model = ImageRequest.Builder(context)
+            .data("https://example.com/image.jpg")
+            .placeholder(coil.base.R.drawable.notification_bg) // Yükleme sırasında gösterilecek resim
+            .error(coil.base.R.drawable.notification_icon_background) // Hata durumunda gösterilecek resim
+            .crossfade(true) // Geçiş efekti
+            .build()
+    )
+
+    Image(
+        painter = painter,
+        contentDescription = "Resim",
+        modifier = Modifier.size(200.dp)
+    )
+}
+
 ```
 Burada `placeholder` fonksiyonu, görsel yüklenene kadar gösterilecek bir görsel belirlerken, `error` fonksiyonu yükleme hatası durumunda gösterilecek bir görsel belirler.
 
@@ -122,6 +154,48 @@ fun RoundedImage() {
     Image(painter = painter, contentDescription = "Rounded Image")
 }
 
+
+
+AsyncImage(
+    model = "https://example.com/image.jpg",
+    contentDescription = "Resim",
+    contentScale = ContentScale.Crop, // Resmi kırparak ekrana sığdırır
+    modifier = Modifier
+    .size(150.dp)
+        .clip(CircleShape) // Yuvarlak hale getirir
+        .border(2.dp, Color.Black, CircleShape) // Kenarlık ekler
+    
+)
+
+```
+
+
+**AsyncImage ile Yükleme Durumlarını Yönetme**
+
+```kotlin
+@Composable
+fun ImageWithLoadingState() {
+    val context = LocalContext.current
+    val painter = rememberAsyncImagePainter(
+        model = "https://example.com/image.jpg"
+    )
+    val state = painter.state
+
+    Box(modifier = Modifier.size(200.dp)) {
+        when (state) {
+            is AsyncImagePainter.State.Loading -> {
+                CircularProgressIndicator(modifier = Modifier.align(Alignment.Center))
+            }
+            is AsyncImagePainter.State.Error -> {
+                Text("Resim yüklenemedi", modifier = Modifier.align(Alignment.Center))
+            }
+            else -> {
+                Image(painter = painter, contentDescription = "Resim")
+            }
+        }
+    }
+}
+
 ```
 
 Jetpack Compose ve Coil, modern Android uygulamalarında görsel yükleme işlemlerini hızlı, verimli ve kullanıcı dostu hale getirir. Compose ile Coil'i kullanarak asenkron görsel yüklemeleri, dönüşümleri ve hata yönetimini kolayca entegre edebilirsiniz.
@@ -131,3 +205,4 @@ Jetpack Compose ve Coil, modern Android uygulamalarında görsel yükleme işlem
 
 ---
 ***Abdullah TANRIVERDİ***
+
