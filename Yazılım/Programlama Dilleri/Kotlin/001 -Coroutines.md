@@ -1,5 +1,4 @@
-#Yazılım #PD #Kotlin 
-
+#Yazılım #ProgramlamaDilleri #Kotlin
 ![[Pasted image 20250216232125.png|500]]
 Coroutines, Kotlin'in asenkron işlemleri yönetmek için sunduğu **hafif** iş parçacıklarıdır. Geleneksel iş parçacıklarına (Threads) göre daha verimli ve yönetimi kolaydır.
 
