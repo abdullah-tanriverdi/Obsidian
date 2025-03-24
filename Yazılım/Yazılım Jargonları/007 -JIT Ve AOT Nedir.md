@@ -1,4 +1,4 @@
-#Yazılım #YazılımJargonları
+#Yazılım #Yazılım-Jargon 
 
 ![[JIT_AOT.jpg|500]]
 

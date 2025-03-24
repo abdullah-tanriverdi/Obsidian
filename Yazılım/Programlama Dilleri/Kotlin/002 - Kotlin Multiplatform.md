@@ -1,1 +1,1 @@
-#Yazılım #PD #Kotlin 
+#Yazılım #ProgramlamaDilleri #Kotlin

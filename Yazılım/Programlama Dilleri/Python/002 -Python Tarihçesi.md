@@ -34,7 +34,7 @@ Python, 1990'ların başında Hollandalı yazılımcı Guido van Rossum tarafın
     Python 2.0, 2000 yılında yayımlandı. Bu sürüm, dilin daha da olgunlaşmasını ve özelliklerinin genişlemesini sağladı. Python 2.x serisinin en önemli özelliklerinden biri **garbage collection** (çöp toplama) desteği eklenmiş olmasıydı. Python’un bellek yönetimi daha etkin hale geldi, bu da yazılımcıların kodlarında daha az hata yapmalarına olanak sağladı. Bunun dışında, yeni eklenen özelliklerle birlikte Python, daha büyük ve karmaşık projeler için de kullanılabilecek bir dil haline geldi. Ayrıca Python 2.0 ile birlikte, ilk kez **Unicode desteği** eklendi, bu da dilin uluslararası kullanımını kolaylaştırdı.
     
 > [!tldr] İPUCU
-> Garbage Collection hakkında bilgi almak için bağlantıya tıkla [[002 -Garbage Collector]]
+> Garbage Collection hakkında bilgi almak için bağlantıya tıkla [[005 -Garbage Collector]]
 
     
 - **2008:**  
