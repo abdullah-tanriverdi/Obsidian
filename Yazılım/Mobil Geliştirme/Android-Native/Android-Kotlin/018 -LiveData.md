@@ -87,7 +87,16 @@ fun MyScreen(viewModel: MyViewModel = viewModel()) {
 |**Kullanım alanı**|ViewModel & UI veri akışı|UI state yönetimi|
 
 > [!tip] İPUCU
-> StateFlow hakkında bilgi almak için bağlantıya tıkla[[003 -StateFlow]]
+> StateFlow hakkında bilgi almak için bağlantıya tıkla[[002 -StateFlow]]
+
+
+|Özellik|Flow|StateFlow|SharedFlow|LiveData|
+|---|---|---|---|---|
+|Hot/Cold|❄️ Soğuk|🔥 Sıcak|🔥 Sıcak|🔥 Sıcak|
+|Son Değeri Tutar mı?|❌ Hayır|✅ Evet|❌ Hayır (replay gerek)|✅ Evet|
+|Tek Seferlik mi?|✅ Evet|❌ Hayır|✅ Genelde evet|❌ Hayır|
+|UI’ye Bağlı mı?|❌ Hayır|❌ Hayır|❌ Hayır|✅ Lifecycle bağlı|
+|Ne İçin Kullanılır?|API, veri üret|UI durumu|Toast, navigasyon|Genel veri gösterimi|
 
 
 ---
