@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/019 -Compose State.md",
+                "file": "Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "019 -Compose State"
+              "title": "005 -JSON İşleme"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/019 -Compose State.md",
+                "file": "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/020 -Firebase Auth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "019 -Compose State"
+              "title": "020 -Firebase Auth"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,37 +177,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c24ab0491f0fde4f",
+  "active": "4910cd3703745d6b",
   "lastOpenFiles": [
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/018 -LiveData.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/007 -Model-View-ViewModel MVVM.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/019 -Compose State.md",
-    "Yazılım/Programlama Dilleri/Kotlin/004 -Kotlin Flow.md",
+    "-Resimler/Pasted image 20250328124226.png",
+    "Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
+    "Yazılım/Programlama Dilleri/Kotlin/004 -Flow.md",
     "Yazılım/Programlama Dilleri/Kotlin/003 -SharedFlow.md",
     "Yazılım/Programlama Dilleri/Kotlin/002 -StateFlow.md",
     "Yazılım/Programlama Dilleri/Kotlin/001 -Coroutines.md",
+    "Yazılım/Yazılım Jargonları/008 -JSON.md",
+    "Yazılım/Yazılım Jargonları/006 -Source Code.md",
+    "Yazılım/Yazılım Jargonları/007 -JIT Ve AOT.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/003 -State Management.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/017 -Coroutines.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/019 -Compose State.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/021 -Splash Screen.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/016 -Gesture Detection.md",
+    "Yazılım/Firebase/004 -Authentication.md",
+    "Yazılım/Firebase/003 -Storage.md",
+    "Yazılım/Firebase/002 -Firestore.md",
+    "Yazılım/Firebase/001 -Firebase Nedir.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/020 -Firebase Auth.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/013 -Firebase Firestore.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/014 -Firebase Storage.md",
+    "Untitled/Regresyon.md",
+    "Untitled",
+    "-Resimler/Pasted image 20250328121047.png",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/018 -LiveData.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/007 -Model-View-ViewModel MVVM.md",
     "Yazılım/Programlama Dilleri/Kotlin/002 - Kotlin Multiplatform.md",
-    "Yazılım/Programlama Dilleri/Kotlin/003 -Flow.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/018 -State Management.md",
     "Pasted image 20250324172759.png",
     "Pasted image 20250324172743.png",
-    "Yazılım/Programlama Dilleri/Python/001 -Python Nedir.md",
-    "kotlindellegeasyonu delgates.md",
-    "Gürülti Noise.md",
-    "Regresyon.md",
-    "000 - KDE Grafigi.md",
-    "000- Basıklık.md",
-    "000 -Correlation.md",
-    "000 - Map in Java.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/021 -Splash Screen.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/015 -Image Picker.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/014 -Firebase Storage.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/013 -Firebase Firestore Database.md",
-    "normalizasyon.md",
-    "Untitled",
-    "Yazılım/Veri Bilimi/004 -Numpy.md",
     "Yazılım/Programlama Dilleri/Java",
     "Yazılım/Programlama Dilleri/Python",
     "-Resimler/Pasted image 20250320104657.png",
@@ -218,10 +218,8 @@
     "-Resimler/Pasted image 20250216225944.png",
     "-Resimler/Pasted image 20250216225930.png",
     "Pasted image 20250216225944.png",
-    "Pasted image 20250216225930.png",
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri",
-    "-Resimler/Pasted image 20250213034506.png",
     "Yazılım/Firebase",
     "gradle.properties",
     "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin",

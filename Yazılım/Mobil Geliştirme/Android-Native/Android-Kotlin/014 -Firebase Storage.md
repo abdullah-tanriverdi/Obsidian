@@ -50,22 +50,70 @@ Jetpack Compose arayüzü üzerinden bir resmi Firebase Storage’a yüklemek i�
 
 **Storage Referansını Oluşturun**
 ```kotlin
-val storageRef = Firebase.storage.reference
+import com.google.firebase.storage.FirebaseStorage
+
+val storage = FirebaseStorage.getInstance()
+val storageRef = storage.reference
 
 ```
 
+
 **Resim Yükleme Fonksiyonu**
 ```kotlin
-fun uploadImageToFirebase(uri: Uri, onSuccess: (String) -> Unit, onFailure: (Exception) -> Unit) {
-    val imageRef = storageRef.child("images/${UUID.randomUUID()}.jpg")
-    val uploadTask = imageRef.putFile(uri)
+fun uploadImage(imageUri: Uri, onSuccess: (String) -> Unit, onError: (String) -> Unit) {
+    val storageRef = FirebaseStorage.getInstance().reference.child("images/${imageUri.lastPathSegment}")
 
-    uploadTask.addOnSuccessListener {
-        imageRef.downloadUrl.addOnSuccessListener { uri ->
-            onSuccess(uri.toString()) // Resmin URL'sini döndürüyoruz
+    storageRef.putFile(imageUri)
+        .addOnSuccessListener { taskSnapshot ->
+            storageRef.downloadUrl.addOnSuccessListener { uri ->
+                onSuccess(uri.toString()) // Resmin URL’sini al
+            }
         }
-    }.addOnFailureListener {
-        onFailure(it)
+        .addOnFailureListener { e ->
+            onError(e.message ?: "Yükleme hatası")
+        }
+}
+
+
+```
+
+**Dosya İndirme**
+Firebase Storage’daki bir resmi Jetpack Compose ile göstermek için:
+```kotlin
+fun getDownloadUrl(imageName: String, onSuccess: (String) -> Unit, onError: (String) -> Unit) {
+    val storageRef = FirebaseStorage.getInstance().reference.child("images/$imageName")
+
+    storageRef.downloadUrl
+        .addOnSuccessListener { uri -> onSuccess(uri.toString()) }
+        .addOnFailureListener { e -> onError(e.message ?: "Dosya alınamadı") }
+}
+
+```
+
+**Dosya Silme**
+
+
+```kotlin 
+fun deleteFile(imageName: String, onSuccess: () -> Unit, onError: (String) -> Unit) {
+    val storageRef = FirebaseStorage.getInstance().reference.child("images/$imageName")
+
+    storageRef.delete()
+        .addOnSuccessListener { onSuccess() }
+        .addOnFailureListener { e -> onError(e.message ?: "Silme hatası") }
+}
+
+```
+
+**Kullanııcıdan Fotoğraf Seçme**
+```kotlin
+@Composable
+fun PickImage(onImagePicked: (Uri) -> Unit) {
+    val launcher = rememberLauncherForActivityResult(contract = ActivityResultContracts.GetContent()) { uri: Uri? ->
+        uri?.let { onImagePicked(it) }
+    }
+
+    Button(onClick = { launcher.launch("image/*") }) {
+        Text("Fotoğraf Seç")
     }
 }
 
@@ -77,7 +125,8 @@ fun uploadImageToFirebase(uri: Uri, onSuccess: (String) -> Unit, onFailure: (Exc
 ```kotlin
 @Composable
 fun UploadImageScreen() {
-    var selectedImageUri by remember { mutableStateOf<Uri?>(null) }
+    var imageUri by remember { mutableStateOf<Uri?>(null) }
+    var imageUrl by remember { mutableStateOf<String?>(null) }
     val context = LocalContext.current
 
     Column(
@@ -85,83 +134,89 @@ fun UploadImageScreen() {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        Button(onClick = {
-            // Burada galeri veya kamera açılabilir (ActivityResult kullanarak)
-        }) {
-            Text("Resim Seç")
-        }
+        PickImage { uri -> imageUri = uri }
 
-        Spacer(modifier = Modifier.height(16.dp))
-
-        selectedImageUri?.let { uri ->
-            Image(
-                painter = rememberAsyncImagePainter(uri),
-                contentDescription = "Seçilen Resim",
-                modifier = Modifier.size(150.dp)
-            )
-
-            Spacer(modifier = Modifier.height(16.dp))
-
+        imageUri?.let { uri ->
             Button(onClick = {
-                uploadImageToFirebase(uri,
-                    onSuccess = { downloadUrl ->
-                        Toast.makeText(context, "Yükleme Başarılı: $downloadUrl", Toast.LENGTH_SHORT).show()
-                    },
-                    onFailure = { e ->
-                        Toast.makeText(context, "Yükleme Hatası: ${e.message}", Toast.LENGTH_SHORT).show()
-                    }
+                uploadImage(uri,
+                    onSuccess = { url -> imageUrl = url },
+                    onError = { msg -> Toast.makeText(context, msg, Toast.LENGTH_SHORT).show() }
                 )
             }) {
-                Text("Yükle")
+                Text("Fotoğraf Yükle")
             }
         }
+
+        imageUrl?.let { url ->
+            AsyncImage(
+                model = url,
+                contentDescription = "Yüklenen Fotoğraf",
+                modifier = Modifier.size(200.dp)
+            )
+        }
     }
 }
 
+
 ```
 
+**Coil İle Görsel Yükleme**
 
-==**Firebase Storage’dan Dosya İndirme**==
-
-Firebase Storage’a yüklenen bir dosyanın URL’si ile indirme işlemi yapabilirsiniz.
-```kotlin
-fun downloadImage(url: String, onSuccess: (Bitmap) -> Unit, onFailure: (Exception) -> Unit) {
-    val storageRef = Firebase.storage.getReferenceFromUrl(url)
-
-    val ONE_MEGABYTE: Long = 1024 * 1024
-    storageRef.getBytes(ONE_MEGABYTE)
-        .addOnSuccessListener { bytes ->
-            val bitmap = BitmapFactory.decodeByteArray(bytes, 0, bytes.size)
-            onSuccess(bitmap)
-        }
-        .addOnFailureListener {
-            onFailure(it)
-        }
+```Gradle
+dependencies {
+    implementation("io.coil-kt:coil-compose:2.4.0")
 }
 
 ```
 
-Jetpack Compose'da gösterimi için:
+
 ```kotlin
 @Composable
-fun LoadImageScreen(imageUrl: String) {
-    var bitmap by remember { mutableStateOf<Bitmap?>(null) }
+fun DisplayImageFromStorage(imageName: String) {
+    var imageUrl by remember { mutableStateOf<String?>(null) }
+    val context = LocalContext.current
 
-    LaunchedEffect(imageUrl) {
-        downloadImage(imageUrl,
-            onSuccess = { bitmap = it },
-            onFailure = { Log.e("Image Load", "Error: ${it.message}") }
-        )
+    // Resmin URL'sini almak için Firestore'u çağırıyoruz
+    LaunchedEffect(imageName) {
+        val storageRef = FirebaseStorage.getInstance().reference.child("images/$imageName")
+        storageRef.downloadUrl
+            .addOnSuccessListener { uri -> imageUrl = uri.toString() }
+            .addOnFailureListener { e ->
+                Toast.makeText(context, "Hata: ${e.message}", Toast.LENGTH_SHORT).show()
+            }
     }
 
-    bitmap?.let {
-        Image(bitmap = it.asImageBitmap(), contentDescription = "Yüklenen Resim")
-    } ?: Text("Resim yükleniyor...")
+    Column(
+        modifier = Modifier.fillMaxSize(),
+        horizontalAlignment = Alignment.CenterHorizontally,
+        verticalArrangement = Arrangement.Center
+    ) {
+        if (imageUrl != null) {
+            AsyncImage(
+                model = imageUrl,
+                contentDescription = "Firebase Storage Resmi",
+                modifier = Modifier.size(200.dp)
+            )
+        } else {
+            CircularProgressIndicator() // Resim yüklenene kadar gösterilir
+        }
+    }
+}
+
+```
+📌 **`LaunchedEffect(imageName)`**: Ekran açıldığında Firebase Storage’dan resmin URL’sini almak için çalıştırılır.  
+📌 `AsyncImage(model = imageUrl, ...)`: Coil kullanarak resmi indirip ekranda gösterir.  
+📌 `CircularProgressIndicator()`: Resim yüklenirken yükleme göstergesi çıkar.
+
+
+```kotlin
+@Composable
+fun ImageScreen() {
+    DisplayImageFromStorage(imageName = "example_image.jpg")
 }
 
 ```
 
-Bu tür başka fonksiyonlar edinilinebilinir.
 
 ---
 

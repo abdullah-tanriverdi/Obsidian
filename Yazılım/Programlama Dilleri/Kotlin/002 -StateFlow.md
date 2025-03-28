@@ -5,7 +5,7 @@
 
 
 > [!tip] İPUCU
-> Kotlin Flow hakkında detaylı bilgiye erişmek için bağlantıya tıkla [[004 -Kotlin Flow]]
+> Kotlin Flow hakkında detaylı bilgiye erişmek için bağlantıya tıkla [[004 -Flow]]
 
 
 

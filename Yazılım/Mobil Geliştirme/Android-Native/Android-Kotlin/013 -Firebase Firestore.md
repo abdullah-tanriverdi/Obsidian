@@ -5,7 +5,7 @@
 
 
 > [!tip] İPUCU
-> Firestore Nedir hakkında bilgi almak için [[002 -Firestore Database]]
+> Firestore Nedir hakkında bilgi almak için [[002 -Firestore]]
 
 
 ==**Firestore’u Android Projesine Ekleme**==
@@ -142,6 +142,20 @@ db.firestoreSettings = settings
 ```
 
 Bu ayar sayesinde, internet bağlantısı olmadan da Firestore verileri önbellekten okunabilir.
+
+Firestore varsayılan olarak herkese açık olabilir. Verilerin güvenliğini sağlamak için **Firestore Rules** güncellenmelidir:
+
+```plaintext
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}
+
+```
 
 ---
 
