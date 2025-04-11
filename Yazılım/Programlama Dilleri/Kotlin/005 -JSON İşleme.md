@@ -2,6 +2,13 @@
 
 Kotlin, JSON verilerini işlemek için çok sayıda popüler kütüphane sunmaktadır. Bunlar arasında en yaygın olanlar **Gson**, **Moshi**, ve **Kotlinx Serialization**'dır. Kotlin, JSON verileriyle çalışırken, tip güvenliğini sağlayan araçlar sunarak modern yazılım geliştirme süreçlerini daha kolay hale getirir.
 
+
+> [!tip] İPUCU
+> Json hakkında daha fazla bilgiye erişmek için bağlantıya tıkla [[008 -JSON]]
+
+
+
+
 ==**JSON İşleme Kütüphaneleri**==
 
 1. **Gson**

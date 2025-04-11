@@ -98,6 +98,7 @@ fun MyScreen(viewModel: MyViewModel = viewModel()) {
 |UI’ye Bağlı mı?|❌ Hayır|❌ Hayır|❌ Hayır|✅ Lifecycle bağlı|
 |Ne İçin Kullanılır?|API, veri üret|UI durumu|Toast, navigasyon|Genel veri gösterimi|
 
+[Android State Showcase GitHub Repo](https://github.com/abdullah-tanriverdi/AndroidStateShowcase)
 
 ---
 

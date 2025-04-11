@@ -48,6 +48,7 @@ Görsellerinizi açılış ekranı için uygun boyutlara yeniden boyutlandırın
     </style>
 </resources>
 ```
+[Android Splash Screen GitHub Repo](https://github.com/abdullah-tanriverdi/AndroidSplashScreen)
 
 ***
 ***Abdullah TANRIVERDİ***

@@ -99,6 +99,10 @@ fun MyScreen(viewModel: MyViewModel = viewModel()) {
 1. **Lifecycle-aware Değil**: **StateFlow**, **LiveData** gibi **lifecycle-aware** (yaşam döngüsüne duyarlı) değildir. Bu nedenle, gözlemleme işlemi yapılırken, UI'nin durumu hakkında daha fazla manuel kontrol gerektirir.
     
 2. **Kapsamlı Kullanım**: Daha büyük projelerde **StateFlow** daha esnek olabilir, ancak küçük projelerde gereksiz karmaşıklık yaratabilir.
+
+[Android State Showcase GitHub Repo](https://github.com/abdullah-tanriverdi/AndroidStateShowcase)
+
+
 ---
 
 ***Abdullah TANRIVERDİ***

@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "851ee351b300f84d",
+        "id": "bf8279faba31b799",
         "type": "tabs",
         "children": [
           {
-            "id": "4910cd3703745d6b",
+            "id": "f6f727a968068df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
+                "file": "Yazılım/Veri Bilimi/009 -Veri Bilimi Methodları.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 -JSON İşleme"
-            }
-          },
-          {
-            "id": "c24ab0491f0fde4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/020 -Firebase Auth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "020 -Firebase Auth"
+              "title": "009 -Veri Bilimi Methodları"
             }
           }
         ]
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 386.5,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -177,36 +164,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4910cd3703745d6b",
+  "active": "f6f727a968068df0",
   "lastOpenFiles": [
-    "-Resimler/Pasted image 20250328124226.png",
-    "Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
-    "Yazılım/Programlama Dilleri/Kotlin/004 -Flow.md",
-    "Yazılım/Programlama Dilleri/Kotlin/003 -SharedFlow.md",
-    "Yazılım/Programlama Dilleri/Kotlin/002 -StateFlow.md",
-    "Yazılım/Programlama Dilleri/Kotlin/001 -Coroutines.md",
-    "Yazılım/Yazılım Jargonları/008 -JSON.md",
-    "Yazılım/Yazılım Jargonları/006 -Source Code.md",
-    "Yazılım/Yazılım Jargonları/007 -JIT Ve AOT.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/003 -State Management.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/004 -LaunchedEffect Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/017 -Coroutines.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/019 -Compose State.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/021 -Splash Screen.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/016 -Gesture Detection.md",
+    "Yazılım/Veri Bilimi/016 -MinMaxScaller.md",
+    "Yazılım/Veri Bilimi/015 -Scatterplot.md",
+    "Yazılım/Veri Bilimi/009 -Veri Bilimi Methodları.md",
+    "Yazılım/Veri Bilimi/010 -Korelasyon.md",
+    "Yazılım/Veri Bilimi/011 -Regresyon.md",
+    "Yazılım/Veri Bilimi/012 -Kernel Density Estimation (KDE) Grafiği.md",
+    "Yazılım/Veri Bilimi/013 -Boxplot.md",
+    "Yazılım/Veri Bilimi/014 -Barplot.md",
+    "Untitled.canvas",
+    "Korelasyon.md",
+    "Untitled/normalizasyon.md",
+    "Untitled/kotlindellegeasyonu delgates.md",
+    "Untitled/Gürülti Noise.md",
+    "Untitled/Callback Fınk.md",
+    "Yazılım/Veri Bilimi/005 -Pandas.md",
+    "Yazılım/Veri Bilimi/007 -Seaborn.md",
+    "Yazılım/Veri Bilimi/008 -Temel Veri Bilimi Terimleri.md",
+    "Yazılım/Veri Bilimi/006 -Matplotlib.md",
+    "Yazılım/Veri Bilimi/002 -Temel Kavramlar.md",
+    "Untitled/000 -Correlation.md",
+    "-Resimler/Pasted image 20250407160923.jpg",
+    "Yazılım/Veri Bilimi/004 -Numpy.md",
+    "Yazılım/Veri Bilimi/003 -Kaggle.md",
     "Yazılım/Firebase/004 -Authentication.md",
-    "Yazılım/Firebase/003 -Storage.md",
     "Yazılım/Firebase/002 -Firestore.md",
     "Yazılım/Firebase/001 -Firebase Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/020 -Firebase Auth.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/013 -Firebase Firestore.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/014 -Firebase Storage.md",
-    "Untitled/Regresyon.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/021 -OkHttp.md",
+    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/021 -Splash Screen.md",
+    "-Resimler/Pasted image 20250328130756.jpg",
+    "-Resimler/Pasted image 20250328124226.png",
     "Untitled",
     "-Resimler/Pasted image 20250328121047.png",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/018 -LiveData.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/007 -Model-View-ViewModel MVVM.md",
-    "Yazılım/Programlama Dilleri/Kotlin/002 - Kotlin Multiplatform.md",
     "Pasted image 20250324172759.png",
     "Pasted image 20250324172743.png",
     "Yazılım/Programlama Dilleri/Java",
@@ -216,8 +207,6 @@
     "-Resimler/Pasted image 20250216232125.png",
     "Pasted image 20250216232125.png",
     "-Resimler/Pasted image 20250216225944.png",
-    "-Resimler/Pasted image 20250216225930.png",
-    "Pasted image 20250216225944.png",
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri",
     "Yazılım/Firebase",
