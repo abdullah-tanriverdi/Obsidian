@@ -11,14 +11,12 @@
             "id": "f6f727a968068df0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Yazılım/Veri Bilimi/009 -Veri Bilimi Methodları.md",
-                "mode": "source",
-                "source": false
+                "file": "Sertifika/Google Play Mağaza Giriş Sertifikası.pdf"
               },
-              "icon": "lucide-file",
-              "title": "009 -Veri Bilimi Methodları"
+              "icon": "lucide-file-text",
+              "title": "Google Play Mağaza Giriş Sertifikası"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -166,9 +163,14 @@
   },
   "active": "f6f727a968068df0",
   "lastOpenFiles": [
+    "Sertifika/Sertifika Linkleri.md",
+    "Sertifika/Google Play Mağaza Giriş Sertifikası.pdf",
+    "Yazılım/Firebase/001 -Firebase Nedir.md",
+    "Sertifika/Google Play Mağaza Giriş Sertifikası",
+    "Untitled 1",
+    "Yazılım/Veri Bilimi/009 -Veri Bilimi Methodları.md",
     "Yazılım/Veri Bilimi/016 -MinMaxScaller.md",
     "Yazılım/Veri Bilimi/015 -Scatterplot.md",
-    "Yazılım/Veri Bilimi/009 -Veri Bilimi Methodları.md",
     "Yazılım/Veri Bilimi/010 -Korelasyon.md",
     "Yazılım/Veri Bilimi/011 -Regresyon.md",
     "Yazılım/Veri Bilimi/012 -Kernel Density Estimation (KDE) Grafiği.md",
@@ -191,9 +193,6 @@
     "Yazılım/Veri Bilimi/003 -Kaggle.md",
     "Yazılım/Firebase/004 -Authentication.md",
     "Yazılım/Firebase/002 -Firestore.md",
-    "Yazılım/Firebase/001 -Firebase Nedir.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/021 -OkHttp.md",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose/021 -Splash Screen.md",
     "-Resimler/Pasted image 20250328130756.jpg",
     "-Resimler/Pasted image 20250328124226.png",
     "Untitled",
@@ -209,9 +208,6 @@
     "-Resimler/Pasted image 20250216225944.png",
     "Yazılım/Programlama Dilleri/Kotlin",
     "Yazılım/Programlama Dilleri",
-    "Yazılım/Firebase",
-    "gradle.properties",
-    "Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin",
-    "Yazılım/Mobil Geliştirme/Android-Native/Jetpack Compose"
+    "Yazılım/Firebase"
   ]
 }
