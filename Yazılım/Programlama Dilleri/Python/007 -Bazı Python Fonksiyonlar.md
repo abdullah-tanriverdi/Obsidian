@@ -41,7 +41,7 @@ for name, age in zipped:
 
 ```
 
-==**5. `*args` ve `**kwargs`**==
+==**5. `args` ve `kwargs`**==
 **Açıklama**: `*args` fonksiyonlara değişken sayıda konumsal argüman geçirmemizi sağlar. `**kwargs` ise anahtar-değer çiftleri (keyword arguments) şeklinde değişken sayıda argüman alır.Bu fonksiyonlar, veri analizi veya modelleme sırasında esnek fonksiyonlar yazmak için kullanılır, örneğin değişken sayıda parametre ile fonksiyonlar çalıştırmak.
 ```python
 def sum_all(*args):
