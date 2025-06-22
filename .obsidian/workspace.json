@@ -13,43 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YAZILIM MÜHENDİSLİĞİ/Jargonlar/002 -JIT Ve AOT.md",
+                "file": "STÜDYO/004 -Machine Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 -JIT Ve AOT"
+              "title": "004 -Machine Code"
             }
           },
           {
-            "id": "a1e3045002511a11",
+            "id": "27f939377d06e89b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
+                "file": "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java/001 -Java Tarihçesi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "007 -Bazı Python Fonksiyonlar"
-            }
-          },
-          {
-            "id": "5eb7e768de2df1aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YAZILIM MÜHENDİSLİĞİ/Jargonlar/002 -JIT Ve AOT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "002 -JIT Ve AOT"
+              "title": "001 -Java Tarihçesi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -191,18 +179,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8510182773ad258",
+  "active": "27f939377d06e89b",
   "lastOpenFiles": [
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/001 -OOP.md",
-    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java/001 -Java Nedir Ve Tarihçesi.md",
+    "STÜDYO/004 -Machine Code.md",
+    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/004 -Bytecode.md",
+    "STÜDYO/002 -JVM.md",
+    "STÜDYO/006 -Design Patterns.md",
+    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java/001 -Java Tarihçesi.md",
+    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/003 -Garbage Collection.md",
     "YAZILIM MÜHENDİSLİĞİ/Jargonlar/002 -JIT Ve AOT.md",
+    "-Resimler/Pasted image 20250622194456.jpg",
+    "Pasted image 20250622194249.jpg",
+    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/001 -OOP.md",
+    "Review/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
     "YAZILIM MÜHENDİSLİĞİ/Jargonlar",
     "Review/Yazılım/Yazılım Jargonları/010 -SDLC.md",
     "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java",
     "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri",
-    "STÜDYO/Java/002 -JVM.md",
     "Review",
-    "Review/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
     "Review/Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
     "Review/Untitled/kotlindellegeasyonu delgates.md",
     "Review/Untitled/Gürülti Noise.md",
@@ -212,26 +206,20 @@
     "Review/Untitled/000 -Obfuscate.md",
     "Review/Untitled/000 -Minify.md",
     "Review/Untitled/000 -HTC Dream.md",
-    "STÜDYO/Jargonlar/006 -Design Patterns.md",
     "Pasted image 20250621200833.jpg",
     "Review/Yazılım/Yazılım Jargonları/001 -SDK.md",
     "Review/Yazılım/Firebase/001 -Firebase Nedir.md",
-    "STÜDYO/Jargonlar/003 -Garbage Collection.md",
     "-Resimler/Pasted image 20250621192242.jpg",
     "Drive/java_the_inside_story_july_1995.pdf",
     "Drive",
     "STÜDYO/Java/003 -Star7.md",
     "-Resimler/Pasted image 20250618170122.jpg",
     "-Resimler/Pasted image 20250618163008.png",
-    "STÜDYO/Jargonlar/005 -Bytecode.md",
-    "STÜDYO/Jargonlar/004 -Makine Kodu.md",
     "STÜDYO/Jargonlar",
     "-Resimler/Pasted image 20250618130852.jpg",
     "Pasted image 20250618131125.jpg",
     "Pasted image 20250618131108.jpg",
     "Pasted image 20250618130829.jpg",
-    "-Resimler/Pasted image 20250618130539.jpg",
-    "Pasted image 20250618130440.jpg",
     "YAZILIM MÜHENDİSLİĞİ",
     "STÜDYO",
     "Untitled/Prisma.md",

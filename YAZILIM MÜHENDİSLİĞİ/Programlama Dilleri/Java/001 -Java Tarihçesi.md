@@ -100,8 +100,8 @@ Açık kaynak lisansla (BSD License) paylaşıldı – isteyen geliştiriciler k
 
 
 > [!tip] İPUCU
-> Makine Kodu hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Makine Kodu]]
-> Bytecode hakkında daha fazla bilgi almak için bağlantıya tıkla [[005 -Bytecode]]
+> Makine Kodu hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Machine Code]]
+> Bytecode hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Bytecode]]
 > JVM hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JVM]]
 > 
 > 
