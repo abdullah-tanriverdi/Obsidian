@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STÜDYO/Java/001 -Java Tarihi.md",
+                "file": "STÜDYO/Jargonlar/001 -OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 -Java Tarihi"
+              "title": "001 -OOP"
             }
           },
           {
@@ -27,16 +27,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STÜDYO/Java/001 -Java Tarihi.md",
+                "file": "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 -Java Tarihi"
+              "title": "007 -Bazı Python Fonksiyonlar"
+            }
+          },
+          {
+            "id": "5eb7e768de2df1aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -178,10 +188,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8510182773ad258",
+  "active": "f6f727a968068df0",
   "lastOpenFiles": [
+    "STÜDYO/Java/001 -Java Nedir Ve Tarihçesi.md",
+    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
+    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/kotlindellegeasyonu delgates.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/Gürülti Noise.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/Callback Fınk.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/000- Basıklık.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -OHA.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -Obfuscate.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -Minify.md",
+    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -HTC Dream.md",
     "STÜDYO/Java/002 -JVM.md",
-    "STÜDYO/Java/001 -Java Tarihi.md",
+    "STÜDYO/Jargonlar/001 -OOP.md",
+    "STÜDYO/Jargonlar/006 -Design Patterns.md",
+    "STÜDYO/Jargonlar/002 -JIT Ve AOT.md",
+    "Pasted image 20250621200833.jpg",
+    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/001 -SDK.md",
+    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Firebase/001 -Firebase Nedir.md",
+    "STÜDYO/Jargonlar/003 -Garbage Collection.md",
+    "-Resimler/Pasted image 20250621192242.jpg",
     "Drive/java_the_inside_story_july_1995.pdf",
     "Drive",
     "STÜDYO/Java/003 -Star7.md",
@@ -189,9 +217,6 @@
     "-Resimler/Pasted image 20250618163008.png",
     "STÜDYO/Jargonlar/005 -Bytecode.md",
     "STÜDYO/Jargonlar/004 -Makine Kodu.md",
-    "STÜDYO/Jargonlar/003 -Garbage Collection.md",
-    "STÜDYO/Jargonlar/002 -JIT Ve AOT.md",
-    "STÜDYO/Jargonlar/001 -OOP.md",
     "STÜDYO/Jargonlar",
     "-Resimler/Pasted image 20250618130852.jpg",
     "Pasted image 20250618131125.jpg",
@@ -199,8 +224,6 @@
     "Pasted image 20250618130829.jpg",
     "-Resimler/Pasted image 20250618130539.jpg",
     "Pasted image 20250618130440.jpg",
-    "Pasted image 20250618130356.jpg",
-    "-Resimler/Pasted image 20250618130057.png",
     "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/010 -SDLC.md",
     "YAZILIM MÜHENDİSLİĞİ",
     "STÜDYO",
@@ -208,19 +231,7 @@
     "Urban Road Network Analysis.md",
     "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/009 -HTTP.md",
     "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/008 -JSON.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/006 -Source Code.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/004 -Exception Handling.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/003 -Gradle.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/001 -SDK.md",
-    "YAZILIM MÜHENDİSLİĞİ/Sertifika/Sertifika Linkleri.md",
     "YAZILIM MÜHENDİSLİĞİ/Sertifika/Google Play Mağaza Giriş Sertifikası.pdf",
-    "SEO Stratejisi Ve Değerlendirme.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -HTC Dream.md",
-    "Untitled/000 - Map in Java.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python/004 -CPython Nedir.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python/003 -Python Mimarisi Ve Çalışma Prensibi.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python/002 -Python Tarihçesi.md",
     "Sertifika/Google Play Mağaza Giriş Sertifikası",
     "Untitled.canvas",
     "YAZILIM MÜHENDİSLİĞİ/Untitled",
