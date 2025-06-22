@@ -5,7 +5,17 @@
 
  JIT (Just-In-Time) ve AOT (Ahead-Of-Time) derleme, uygulamaların nasıl derlendiği ve çalıştırıldığı ile ilgili iki farklı yaklaşımdır.
 
-==**JIT Derleme:**== JIT, uygulamanın çalıştığı anda derlendiği bir derleme yöntemidir. Uygulama kodu, çalıştırılmadan önce byte koduna çevrilir ve bu işlem uygulama çalışırken gerçekleşir.
+**JIT Derleme:** JIT, uygulamanın çalıştığı anda derlendiği bir derleme yöntemidir. Uygulama kodu, çalıştırılmadan önce byte koduna çevrilir ve bu işlem uygulama çalışırken gerçekleşir.
+
+- **Kaynak kod → Bytecode** (örneğin Java’da `javac` ile `.class` dosyası)
+    
+- JVM uygulamayı çalıştırmaya başlar.
+    
+- JVM, sık çalışan (“hot path”) kodları tespit eder.
+    
+- Bu kod parçaları JIT tarafından optimize edilerek makine koduna çevrilir.
+    
+- Gelecek çalışmalarda bu optimize kod doğrudan çalıştırılır.
 
 **Avantajları:**
 
@@ -18,7 +28,13 @@
 - **Başlangıç Süresi:** Uygulamanın ilk başlama süresi, JIT derlemesi nedeniyle daha uzun olabilir.
 - **Bellek Kullanımı:** JIT derleyici, daha fazla bellek kullanabilir çünkü çalışma zamanında ek bilgi ve optimizasyonlar depolar.
   
-==**AOT Derleme:**== AOT, uygulama kodunun, çalıştırılmadan önce tam olarak derlendiği bir yöntemdir. Uygulama, derleme sürecinde doğrudan makine koduna veya makineye yakın bir forma çevrilir.
+**AOT Derleme:** AOT, uygulama kodunun, çalıştırılmadan önce tam olarak derlendiği bir yöntemdir. Uygulama, derleme sürecinde doğrudan makine koduna veya makineye yakın bir forma çevrilir.
+
+- Geliştirici kaynak kodu ya da bytecode’u AOT derleyicisine verir.
+    
+- Derleyici, hedef makine mimarisine özel yerel kod üretir.
+    
+- Uygulama çalıştığında, doğrudan bu makine kodu çalışır – JIT gerekmez.
 
 **Avantajları:**
 
@@ -33,7 +49,7 @@
 
 <br>
 
-==**JIT Kullanım Senaryosu**==
+**JIT Kullanım Senaryosu**
 
 **Senaryo:** Mobil Uygulama Geliştirme
 
@@ -42,7 +58,7 @@
 - **Kullanım:** Uygulamanızı Dart SDK ile geliştirdiğinizde, `flutter run` komutunu kullanarak uygulamanızı çalıştırdığınızda JIT derleyici devreye girer. Böylece kod değişikliklerinizi anında görebilir ve uygulamanızı hızlıca güncelleyebilirsiniz.
     
 
-==**AOT Kullanım Senaryosu**==
+**AOT Kullanım Senaryosu**
 
 **Senaryo:** Üretim Ortamında Mobil Uygulama Dağıtımı
 
@@ -50,8 +66,56 @@
     
 - **Kullanım:** Uygulamanızı üretim ortamına dağıtmak için `flutter build apk` komutunu kullanarak AOT derlemesi ile bir APK dosyası oluşturursunuz. Bu işlem, uygulamanızın tüm kodunu makine koduna derler. Kullanıcılar uygulamayı yüklediklerinde, daha hızlı bir açılış ve daha akıcı bir deneyim yaşarlar.
 
+| Özellik              | JIT                                | AOT                                   |
+| -------------------- | ---------------------------------- | ------------------------------------- |
+| Derleme Zamanı       | Çalışma zamanı (runtime)           | Derleme zamanı (build time)           |
+| Başlama Süresi       | Geç (çünkü derleme sonradan olur)  | Hızlı (çünkü doğrudan makine kodu)    |
+| Koşu Performansı     | Genellikle yüksek (optimizasyonlu) | İyi ama JIT kadar dinamik değil       |
+| Dinamik Optimizasyon | ✔ (profil tabanlı)                 | ✘ (statik)                            |
+| Bellek Kullanımı     | Daha fazla (çünkü JIT cache tutar) | Daha az                               |
+| Platform Bağımsızlık | ✔ (bytecode taşınabilir)           | ✘ (hedef platforma bağlı makine kodu) |
 
-  
+**JIT Mimarisi**
+
+```text
+
+JIT
+        [ Kaynak Kod ]
+              ↓
+        [ Derleyici (javac / csc) ]
+              ↓
+        [ Ara Kod (Bytecode / IL) ]
+              ↓
+        [ Sanal Makine (JVM / CLR) ]
+              ↓
+      ┌────────────────────────────┐
+      │  JIT Derleyici             │
+      │  (HotSpot / RyuJIT / etc.)│
+      └────────────────────────────┘
+              ↓
+       [ Makine Kodu ] → CPU
+
+```
+
+**AOT Mimarisi**
+
+```text
+AOT
+        [ Kaynak Kod ]
+              ↓
+      ┌────────────────────────────┐
+      │ AOT Derleyici              │
+      │ (LLVM, GraalVM Native,    │
+      │  .NET Native, Clang, ART) │
+      └────────────────────────────┘
+              ↓
+     [ Makine Kodu / Native Binary ]
+              ↓
+            CPU (Doğrudan çalıştırılır)
+
+```
+
+
 <iframe width="600" height="300" src="https://www.youtube.com/embed/8hqMK_lhWdE?start=59" frameborder="0" allowfullscreen></iframe>
 
 

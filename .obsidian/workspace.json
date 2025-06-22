@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STÜDYO/Jargonlar/001 -OOP.md",
+                "file": "YAZILIM MÜHENDİSLİĞİ/Jargonlar/002 -JIT Ve AOT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 -OOP"
+              "title": "002 -JIT Ve AOT"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
+                "file": "Review/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,10 +39,14 @@
             "id": "5eb7e768de2df1aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "YAZILIM MÜHENDİSLİĞİ/Jargonlar/002 -JIT Ve AOT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 -JIT Ve AOT"
             }
           }
         ]
@@ -102,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -188,26 +191,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6f727a968068df0",
+  "active": "d8510182773ad258",
   "lastOpenFiles": [
-    "STÜDYO/Java/001 -Java Nedir Ve Tarihçesi.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/kotlindellegeasyonu delgates.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/Gürülti Noise.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/Callback Fınk.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/000- Basıklık.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -OHA.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -Obfuscate.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -Minify.md",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled/000 -HTC Dream.md",
+    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/001 -OOP.md",
+    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java/001 -Java Nedir Ve Tarihçesi.md",
+    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/002 -JIT Ve AOT.md",
+    "YAZILIM MÜHENDİSLİĞİ/Jargonlar",
+    "Review/Yazılım/Yazılım Jargonları/010 -SDLC.md",
+    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java",
+    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri",
     "STÜDYO/Java/002 -JVM.md",
-    "STÜDYO/Jargonlar/001 -OOP.md",
+    "Review",
+    "Review/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
+    "Review/Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
+    "Review/Untitled/kotlindellegeasyonu delgates.md",
+    "Review/Untitled/Gürülti Noise.md",
+    "Review/Untitled/Callback Fınk.md",
+    "Review/Untitled/000- Basıklık.md",
+    "Review/Untitled/000 -OHA.md",
+    "Review/Untitled/000 -Obfuscate.md",
+    "Review/Untitled/000 -Minify.md",
+    "Review/Untitled/000 -HTC Dream.md",
     "STÜDYO/Jargonlar/006 -Design Patterns.md",
-    "STÜDYO/Jargonlar/002 -JIT Ve AOT.md",
     "Pasted image 20250621200833.jpg",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/001 -SDK.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Firebase/001 -Firebase Nedir.md",
+    "Review/Yazılım/Yazılım Jargonları/001 -SDK.md",
+    "Review/Yazılım/Firebase/001 -Firebase Nedir.md",
     "STÜDYO/Jargonlar/003 -Garbage Collection.md",
     "-Resimler/Pasted image 20250621192242.jpg",
     "Drive/java_the_inside_story_july_1995.pdf",
@@ -224,18 +232,12 @@
     "Pasted image 20250618130829.jpg",
     "-Resimler/Pasted image 20250618130539.jpg",
     "Pasted image 20250618130440.jpg",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/010 -SDLC.md",
     "YAZILIM MÜHENDİSLİĞİ",
     "STÜDYO",
     "Untitled/Prisma.md",
     "Urban Road Network Analysis.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/009 -HTTP.md",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Yazılım Jargonları/008 -JSON.md",
-    "YAZILIM MÜHENDİSLİĞİ/Sertifika/Google Play Mağaza Giriş Sertifikası.pdf",
-    "Sertifika/Google Play Mağaza Giriş Sertifikası",
-    "Untitled.canvas",
-    "YAZILIM MÜHENDİSLİĞİ/Untitled",
-    "STÜDYO/Java",
-    "YAZILIM MÜHENDİSLİĞİ/Yazılım/Programlama Dilleri/Python"
+    "Review/Yazılım/Yazılım Jargonları/009 -HTTP.md",
+    "Review/Sertifika/Google Play Mağaza Giriş Sertifikası.pdf",
+    "Untitled.canvas"
   ]
 }
