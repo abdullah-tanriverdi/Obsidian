@@ -116,7 +116,13 @@ AOT
 ```
 
 
-<iframe width="600" height="300" src="https://www.youtube.com/embed/8hqMK_lhWdE?start=59" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="300" 
+    src="https://www.youtube.com/embed/5rn_MAspYFM?list=PLrdBiaxMhrdx33G3hFK0vO4NwlAy0FGf8" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
 
 
 > [!note] KISACA

@@ -1,2 +1,0 @@
-#Yazılım #Yazılım-Jargon 
-
