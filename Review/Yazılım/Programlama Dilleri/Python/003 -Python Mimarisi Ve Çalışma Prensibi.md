@@ -144,7 +144,7 @@ Python’un işlem hızı, derlenen dillere (örneğin, C veya C++) kıyasla gen
 - Python'un **JIT (Just-In-Time) derleyicileri** gibi özellikler, çalışma zamanında Python kodunu optimize etmeye yardımcı olabilir.
 
 > [!tldr] İPUCU
-> JIT hakkında bilgi almak için bağlantıya tıkla [[002 -JIT Ve AOT]]
+> JIT hakkında bilgi almak için bağlantıya tıkla [[002 -JIT vs AOT]]
 
 
 

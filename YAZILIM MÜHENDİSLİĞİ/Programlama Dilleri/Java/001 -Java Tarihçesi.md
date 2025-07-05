@@ -86,7 +86,7 @@ Açık kaynak lisansla (BSD License) paylaşıldı – isteyen geliştiriciler k
 
 > [!tip] İPUCU
 > OOP hakkında daha fazla bilgi almak için bağlantıya tıkla [[001 -OOP]]
-> JIT hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JIT Ve AOT]]
+> JIT hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JIT vs AOT]]
 > Garbage Collection hakkında daha fazla bilgi almak için bağlantıya tıkla [[003 -Garbage Collection]]
 
 
@@ -101,7 +101,7 @@ Açık kaynak lisansla (BSD License) paylaşıldı – isteyen geliştiriciler k
 
 > [!tip] İPUCU
 > Makine Kodu hakkında daha fazla bilgi almak için bağlantıya tıkla [[005 -Machine Code]]
-> Bytecode hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Bytecode]]
+> Bytecode hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Byte Code]]
 > JVM hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JVM]]
 > 
 > 
