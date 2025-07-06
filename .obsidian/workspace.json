@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YAZILIM MÜHENDİSLİĞİ/Jargonlar/008 -Assembly.md",
+                "file": "SOFTWARE ENGINEERING/Programming Languages/Java/002 -JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008 -Assembly"
+              "title": "002 -JVM"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YAZILIM MÜHENDİSLİĞİ/Jargonlar/006 -Compiler (Derleyici).md",
+                "file": "YAZILIM MÜHENDİSLİĞİ/Jargonlar/006 -Compiler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006 -Compiler (Derleyici)"
+              "title": "006 -Compiler"
             }
           }
         ]
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -179,30 +180,32 @@
   },
   "active": "718004ee06261762",
   "lastOpenFiles": [
+    "STÜDYO/JNI.md",
+    "SOFTWARE ENGINEERING/Programming Languages/Java/002 -JVM.md",
+    "-Resimler/Pasted image 20250706121743.jpg",
+    "SOFTWARE ENGINEERING/Programming Languages/Java/001 -History Of Java.md",
+    "SOFTWARE ENGINEERING/Jargons/001 -OOP.md",
+    "SOFTWARE ENGINEERING/Jargons/008 -Assembly.md",
+    "SOFTWARE ENGINEERING/Jargons/007 -Interpreter.md",
+    "SOFTWARE ENGINEERING/Jargons/006 -Compiler.md",
+    "SOFTWARE ENGINEERING/Jargons/005 -Machine Code.md",
+    "SOFTWARE ENGINEERING/Jargons/004 -Byte Code.md",
+    "SOFTWARE ENGINEERING/Jargons/003 -Garbage Collection.md",
+    "SOFTWARE ENGINEERING/Jargons/002 -JIT vs AOT.md",
+    "STÜDYO/Design Patterns.md",
     "-Resimler/Pasted image 20250705161638.jpg",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/007 -Interpreter (Yorumlayıcı).md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/006 -Compiler (Derleyici).md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/005 -Machine Code.md",
-    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java/001 -Java Tarihçesi.md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/004 -Byte Code.md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/003 -Garbage Collection.md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/002 -JIT vs AOT.md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/001 -OOP.md",
     "Review/Yazılım/Yazılım Jargonları/001 -SDK.md",
     "Review/Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler.md",
     "STÜDYO/Number Systems.md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar/008 -Assembly.md",
-    "STÜDYO/006 -Design Patterns.md",
     "Review/Sertifika/Google Play Mağaza Giriş Sertifikası.pdf",
     "Review/Sertifika/Sertifika Linkleri.md",
-    "STÜDYO/002 -JVM.md",
     "-Resimler/Pasted image 20250622194456.jpg",
     "Pasted image 20250622194249.jpg",
     "Review/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
-    "YAZILIM MÜHENDİSLİĞİ/Jargonlar",
+    "SOFTWARE ENGINEERING/Jargons",
     "Review/Yazılım/Yazılım Jargonları/010 -SDLC.md",
-    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri/Java",
-    "YAZILIM MÜHENDİSLİĞİ/Programlama Dilleri",
+    "SOFTWARE ENGINEERING/Programming Languages/Java",
+    "SOFTWARE ENGINEERING/Programming Languages",
     "Review",
     "Review/Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
     "Review/Untitled/kotlindellegeasyonu delgates.md",
@@ -221,9 +224,7 @@
     "STÜDYO/Jargonlar",
     "-Resimler/Pasted image 20250618130852.jpg",
     "Pasted image 20250618131125.jpg",
-    "Pasted image 20250618131108.jpg",
-    "Pasted image 20250618130829.jpg",
-    "YAZILIM MÜHENDİSLİĞİ",
+    "SOFTWARE ENGINEERING",
     "STÜDYO",
     "Untitled.canvas"
   ]

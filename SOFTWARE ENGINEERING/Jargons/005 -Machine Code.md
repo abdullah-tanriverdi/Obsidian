@@ -70,8 +70,8 @@ Yapılacak işlemi belirtir (örneğin toplama, çıkarma, taşıma vb.)
 
 
 > [!tip] İPUCU
-> Compiler hakkında daha fazla bilgi almak için bağlantıya tıkla [[006 -Compiler (Derleyici)]]
-> Interpreter hakkında daha fazla bilgi almak için bağlantıya tıkla  [[007 -Interpreter (Yorumlayıcı)]]
+> Compiler hakkında daha fazla bilgi almak için bağlantıya tıkla [[006 -Compiler]]
+> Interpreter hakkında daha fazla bilgi almak için bağlantıya tıkla  [[007 -Interpreter]]
 > Assembly hakkında daha fazla bilgi almak için bağlantıya tıkla [[008 -Assembly]]
 
 **Assembly (x86)**
