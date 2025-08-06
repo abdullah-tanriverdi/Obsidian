@@ -84,10 +84,6 @@ Açık kaynak lisansla (BSD License) paylaşıldı – isteyen geliştiriciler k
 | **Dinamik ve Genişletilebilir** | Yeni kodlar çalışma anında yüklenebilir.                                  |
 
 
-> [!tip] İPUCU
-> OOP hakkında daha fazla bilgi almak için bağlantıya tıkla [[001 -OOP]]
-> JIT hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JIT vs AOT]]
-> Garbage Collection hakkında daha fazla bilgi almak için bağlantıya tıkla [[003 -Garbage Collection]]
 
 
 **Java'nın WORA Felsefesi**
@@ -99,12 +95,6 @@ Açık kaynak lisansla (BSD License) paylaşıldı – isteyen geliştiriciler k
 - Böylece bir kez yazılan kod, farklı işletim sistemlerinde yeniden derlenmeden çalışabilir.
 
 
-> [!tip] İPUCU
-> Makine Kodu hakkında daha fazla bilgi almak için bağlantıya tıkla [[005 -Machine Code]]
-> Bytecode hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Byte Code]]
-> JVM hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JVM]]
-> 
-> 
 
 
 **Java'nın Kullanım Alanları**
@@ -167,10 +157,6 @@ Java’nın ilk dönemlerinde ortaya çıkan, Java platformunun ilk grafiksel ku
 Java Applet, web sayfalarına gömülebilen küçük Java programlarıdır.
 
 
-[Java: The Inside Story – Temmuz 1995](https://drive.google.com/file/d/11lv26FQrZ36VBhWzWtgpz6aK-7E3YLBe/view?usp=drive_link)
-
-
-
 
 ![[Pasted image 20250621192242.jpg]]
 
@@ -212,6 +198,14 @@ Java Applet, web sayfalarına gömülebilen küçük Java programlarıdır.
 </iframe>
 
 
+
+> [!tip] İPUCU
+> OOP hakkında daha fazla bilgi almak için bağlantıya tıkla [[001 -OOP]]
+> JIT hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JIT vs AOT]]
+> Garbage Collection hakkında daha fazla bilgi almak için bağlantıya tıkla [[003 -Garbage Collection]]
+>Makine Kodu hakkında daha fazla bilgi almak için bağlantıya tıkla [[005 -Machine Code]]
+> Bytecode hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Byte Code]]
+> JVM hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JVM]]
 
 ***
 

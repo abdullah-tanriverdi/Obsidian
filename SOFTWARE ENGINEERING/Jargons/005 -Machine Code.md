@@ -6,9 +6,6 @@ Makine Kodu (Machine Code), bir bilgisayarın merkezi işlem birimi (CPU) taraf�
 Not: Makine kodu genellikle hexadecimal (onaltılık) formatta gösterilir, ancak bu yalnızca insanların okumasını kolaylaştırmak içindir.
 
 
-> [!tip] İPUCU
-> Sayı sistemleri hakkında daha fazla bilgi almak için bağlantıya tıkla [[Number Systems]]
-
 **Bilgisiyarlar Makine Kodunu Nasıl Kullanır?**
 
 **Von Neumann Mimarisi**
@@ -68,11 +65,6 @@ Yapılacak işlemi belirtir (örneğin toplama, çıkarma, taşıma vb.)
 | **Interpreter (Yorumlayıcı)** | Kodu satır satır okuyup o anda çalıştırır.                       |
 | **Assembler (Yazıcı)**        | Assembly kodunu makine koduna çevirir.                           |
 
-
-> [!tip] İPUCU
-> Compiler hakkında daha fazla bilgi almak için bağlantıya tıkla [[006 -Compiler]]
-> Interpreter hakkında daha fazla bilgi almak için bağlantıya tıkla  [[007 -Interpreter]]
-> Assembly hakkında daha fazla bilgi almak için bağlantıya tıkla [[008 -Assembly]]
 
 **Assembly (x86)**
 ```asm
@@ -179,5 +171,14 @@ A3 ?? ?? ?? ??    ; mov [a], eax (?? adresi temsil eder)
 |Kaynak Dil|Python|C / C++|
 |Ara Katman|Python Bytecode (PVM içindir)|Assembly → Binary (CPU içindir)|
 |Ortam|Sanal Makine (örneğin CPython)|Doğrudan donanım (x86 CPU vb.)|
-***
+
+
+> [!tip] İPUCU
+> Sayı sistemleri hakkında daha fazla bilgi almak için bağlantıya tıkla [[Number Systems]]
+> Compiler hakkında daha fazla bilgi almak için bağlantıya tıkla [[006 -Compiler]]
+> Interpreter hakkında daha fazla bilgi almak için bağlantıya tıkla  [[007 -Interpreter]]
+> Assembly hakkında daha fazla bilgi almak için bağlantıya tıkla [[008 -Assembly]]
+
+---
+
 ***Abdullah TANRIVERDİ***
