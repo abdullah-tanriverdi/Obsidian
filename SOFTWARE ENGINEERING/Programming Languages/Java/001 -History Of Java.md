@@ -1,13 +1,13 @@
 #Yazılım #Java
 
 
-![[Pasted image 20250618125441.png]]
+![[History Of Java1.png]]
 
 Java, 23 Mayıs 1995 yılında Sun Microsystems tarafından geliştirilen, nesne yönelimli, platform bağımsız, yüksek seviyeli ve güvenli bir programlama dilidir. Dilin tasarımı ve geliştirilmesi, bilgisayar mühendisi James Gosling liderliğindeki deneyimli bir ekip tarafından gerçekleştirilmiştir. 
 
 
 
-![[Pasted image 20250618125717.png]]
+![[History Of Java2.png]]
 
 > [!note] Sun Microsystems
 > 1982 yılında kurulan Amerikan merkezli bir teknoloji şirketidir. Sun, özellikle Java programlama dili ve Unix tabanlı Solaris işletim sistemi ile tanınır. 2010 yılında Oracle Corporation tarafından satın alınmıştır.
@@ -23,7 +23,7 @@ James Gosling ve Ekibi, 1990'ların başında Sun Microsystems bünyesinde Java 
 - **Patrick Naughton**: Projenin erken aşamalarında yer alan ve Java’nın ilk prototiplerini geliştiren ekip üyelerinden biri.
 
 
-![[Pasted image 20250618130852.jpg|400]]
+![[History Of Java3.jpg|400]]
 
 Platformdan bağımsız bir geliştirme süreci yaratmak isteyen Gosling, işe C++ derleyicisini genişleterek başladı. Ancak bir süre sonra, ne kadar eklenti yapılırsa yapılsın C++’ın yetersiz kalacağını anladı. Böylece Oak dili 1991 ortasında doğdu. 
 
@@ -54,7 +54,7 @@ Platformdan bağımsız bir geliştirme süreci yaratmak isteyen Gosling, işe C
 
 
 
-![[Pasted image 20250618130057.png]]
+![[History Of Java4.png]]
 
 
 > [!note] Oracle Corporation
@@ -63,7 +63,7 @@ Platformdan bağımsız bir geliştirme süreci yaratmak isteyen Gosling, işe C
 
 **Java Maskotu**
 
-![[Pasted image 20250618163008.png]]
+![[History Of Java5.png]]
 
 - **Adı:** Duke
 
@@ -125,7 +125,7 @@ Java’nın ilk dönemlerinde ortaya çıkan, Java platformunun ilk grafiksel ku
 
 
 
-![[Pasted image 20250618170122.jpg]]
+![[History Of Java6.jpg]]
 
 
 | STAR7 Özellik                 | Açıklama                                                      |
@@ -158,7 +158,7 @@ Java Applet, web sayfalarına gömülebilen küçük Java programlarıdır.
 
 
 
-![[Pasted image 20250621192242.jpg]]
+![[History Of Java7.jpg]]
 
 
 <iframe width="560" height="315" 

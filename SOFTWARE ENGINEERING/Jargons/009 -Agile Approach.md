@@ -1,5 +1,6 @@
+#Yazılım #Yazılım-Jargon 
 
-![[Pasted image 20250806104229.jpg]]
+![[Agile Approach1.jpg]]
 
 
 **Tanım**
@@ -62,7 +63,7 @@ Agile (Çevik), özellikle yazılım geliştirme başta olmak üzere birçok sek
 
 **1. Scrum
 
-![[Pasted image 20250806234757.jpg]]**
+![[Agile Approach2.jpg]]**
 Scrum, çevik yöntemlerin en yaygın biçimde kullanılanıdır. Belirli roller, ritüeller ve yapılar içerir.
 
 **Roller**
@@ -95,7 +96,7 @@ Scrum, çevik yöntemlerin en yaygın biçimde kullanılanıdır. Belirli roller
 
  **2. Kanban**
 
-![[Pasted image 20250806234828.png]]
+![[Agile Approach3.png]]
 Kanban, görselleştirme ve sınırlama ilkelerine dayanan, çevik bir iş yönetim sistemidir. Zaman kutularına (timebox) dayanmaz, sürekli akışı esas alır.
 
 **Temel Unsurlar**
@@ -129,7 +130,7 @@ Kanban, görselleştirme ve sınırlama ilkelerine dayanan, çevik bir iş yöne
 
 **3. Extreme Programming (XP)**
 
-![[XP-principles 1.png]]
+![[Agile Approach5.png]]
 
 
 XP, kaliteyi ve müşteri memnuniyetini maksimize etmeyi amaçlayan yazılım geliştirme metodolojisidir.
@@ -156,7 +157,7 @@ XP, kaliteyi ve müşteri memnuniyetini maksimize etmeyi amaçlayan yazılım ge
 
 **4. Lean**
 
-![[Pasted image 20250806235420.png]]
+![[Agile Approach4.png]]
 
 Lean, yazılım geliştirmeye üretim süreçlerinden uyarlanmış bir yaklaşımdır. Temel amacı israfı azaltmak ve değer üretimini maksimize etmektir.
 

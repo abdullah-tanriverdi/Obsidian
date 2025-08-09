@@ -1,7 +1,7 @@
 #Yazılım #Yazılım-Jargon 
 
 
-![[garbage collector.jpg|500]]
+![[Garbage Collection1.jpg|500]]
 
 Garbage Collector, bir yazılımın çalışması sırasında artık kullanılmayan bellek alanlarını otomatik olarak serbest bırakan bir mekanizmadır. Bu, bellek sızıntılarını önler ve programın performansını optimize eder.
 

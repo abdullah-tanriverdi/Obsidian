@@ -1,6 +1,6 @@
 #Yazılım #Yazılım-Jargon 
 
-![[JIT_AOT.jpg|500]]
+![[JIT vs AOT1.jpg|500]]
 
 
  JIT (Just-In-Time) ve AOT (Ahead-Of-Time) derleme, uygulamaların nasıl derlendiği ve çalıştırıldığı ile ilgili iki farklı yaklaşımdır.

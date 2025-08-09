@@ -1,6 +1,6 @@
 #Yazılım #Yazılım-Jargon 
 
-![[Pasted image 20250622194456.jpg]]
+![[Byte Code1.jpg]]
 
 
 

@@ -1,6 +1,6 @@
 #Yazılım #Yazılım-Jargon 
 
-![[Pasted image 20250705161638.jpg|400]]
+![[Assembly1.jpg|400]]
 
 Assembly dili, bilgisayar donanımına çok yakın, düşük seviyeli bir programlama dilidir.
 
