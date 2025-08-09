@@ -200,6 +200,14 @@ Lean, yazılım geliştirmeye üretim süreçlerinden uyarlanmış bir yaklaşı
 |Teslimat|Sprint sonunda|Sürekli|Sürekli|Talep odaklı|
 |Görsellik|Sprint backlog|Kanban panosu|Kısmi|Kısmi|
 |Değişiklik yönetimi|Sprint süresince sabit|Anında değişiklik|Anında değişiklik|Sürekli iyileştirme|
+<iframe
+  width="560" height="315"
+  src="https://www.youtube.com/embed/Hm6DvMwJHiU"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 
 ---
