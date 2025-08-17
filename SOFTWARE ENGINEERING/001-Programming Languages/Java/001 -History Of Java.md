@@ -1,4 +1,4 @@
-#Yazılım #Java
+#Yazılım #ProgramlamaDilleri #Java 
 
 
 ![[History Of Java1.png]]
@@ -27,6 +27,16 @@ James Gosling ve Ekibi, 1990'ların başında Sun Microsystems bünyesinde Java 
 
 Platformdan bağımsız bir geliştirme süreci yaratmak isteyen Gosling, işe C++ derleyicisini genişleterek başladı. Ancak bir süre sonra, ne kadar eklenti yapılırsa yapılsın C++’ın yetersiz kalacağını anladı. Böylece Oak dili 1991 ortasında doğdu. 
 
+**C++ İle Yaşanan Sorunlar**
+- **Platform Bağımlılığı:** C++ kodu doğrudan işletim sistemine ve donanıma bağımlı şekilde derleniyordu.
+- **Bellek Yönetimi:** C++’ta bellek yönetimi tamamen programcının elindeydi (`malloc/free`, `new/delete`). Bu esneklik güzel ama özellikle gömülü cihazlarda hafıza hataları, bellek sızıntıları gibi kritik problemler yaratıyordu.
+- **Güvenlik:** C++ pointer’larla çok güçlü ama aynı zamanda riskli bir dil. Pointer hataları, buffer overflow saldırılarına açık kapı bırakıyordu.
+
+> [!info] İPUCU
+> - **Buffer Overflow Saldırısı:** Bir programın ayırdığı bellek sınırlarını aşarak fazladan veri yazılması sonucu, saldırganın zararlı kod çalıştırabilmesine yol açan güvenlik açığıdır.
+>- **Pointer Hatası:** Yanlış veya geçersiz bir bellek adresine işaret eden pointer kullanımı nedeniyle programın çökmesine ya da beklenmedik davranış göstermesine denir.
+
+- **Basitlik:** C++ çok karmaşık bir dil hâline gelmişti.
 
 > [!note] OAK
 > Java’nın öncüsü olan Oak adlı dil, James Gosling ve Green Team (Yeşil Takım) tarafından tasarlandı. Oak dili, tüketici elektroniği (set-top box’lar, TV cihazları) için geliştirilen gömülü sistemlerde kullanılmak üzere tasarlanmıştı. Oak hiçbir zaman yaygınlaşmadı çünkü cihaz üreticileri çok sınırlı donanımlara sahipti. Bu yüzden proje beklemeye alındı.
@@ -39,20 +49,15 @@ Platformdan bağımsız bir geliştirme süreci yaratmak isteyen Gosling, işe C
 “Amacımız C++ ile rekabet etmek değil, birbirleriyle iletişim kurabilen çok sayıda dağıtık, heterojen tüketici elektroniği cihazlarından oluşan bir sistem kurmaktı.”
 
 
-
 > [!tip] WORA
 > Java’nın temel amacı, geliştiricilerin bir kez yazdıkları kodu farklı donanım ve işletim sistemlerinde değişiklik yapmadan çalıştırabilmesini sağlamaktır. Bu nedenle Java, “**Write Once, Run Anywhere**” (WORA) sloganıyla tanınır.
+
+
 
 > [!tip] Neden Java İsmi
 > İsmini Java kahvesinden aldı. Geliştiriciler kod yazarken çok kahve tüketiyordu
 
-
-
-2010 yılında Oracle Corporation, Sun Microsystems’i satın alarak Java’nın gelişimini ve desteğini üstlenmiştir. Bugün Oracle, Java platformunun yeni sürümlerini çıkararak dilin güncel kalmasını ve modern teknoloji trendlerine uyum sağlamasını sağlamaktadır.
-
-
-
-
+2010 yılında Oracle Corporation, Sun Microsystems’i yaklaşık **7,4 Milyar Dolar** değerinde bir anlaşma ile satın almış ve böylece Java’nın gelişimi ve desteğini üstlenmiştir. 21 Ocak 2010’da şartsız onay verilmiştir. 27 Ocak 2010’da resmî olarak tamamlanan bu satın alma ile Oracle yalnızca yazılım şirketi olmaktan çıkarak, donanım ve yazılımı entegre eden güçlü bir teknoloji şirketine dönüşmüştür.
 
 ![[History Of Java4.png]]
 
@@ -200,12 +205,15 @@ Java Applet, web sayfalarına gömülebilen küçük Java programlarıdır.
 
 
 > [!tip] İPUCU
-> OOP hakkında daha fazla bilgi almak için bağlantıya tıkla [[001 -OOP]]
-> JIT hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JIT vs AOT]]
-> Garbage Collection hakkında daha fazla bilgi almak için bağlantıya tıkla [[003 -Garbage Collection]]
->Makine Kodu hakkında daha fazla bilgi almak için bağlantıya tıkla [[005 -Machine Code]]
-> Bytecode hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -Byte Code]]
-> JVM hakkında daha fazla bilgi almak için bağlantıya tıkla [[002 -JVM]]
+> [[001 -James Gosling]]
+> [[002 -JVM]]
+> [[003 -Garbage Collection]]
+> [[001 -OOP]]
+> [[Thread]]
+> [[002 -JIT vs AOT]]
+> [[005 -Machine Code]]
+> [[004 -Byte Code]]
+> [[006 -Compiler]]
 
 ***
 

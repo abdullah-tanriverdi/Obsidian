@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "513253fcded5a0de",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SOFTWARE ENGINEERING/-Images/Scrum3.png"
-              },
-              "icon": "lucide-image",
-              "title": "Scrum3"
-            }
-          },
-          {
-            "id": "23b8a3dd101fcf65",
+            "id": "f3d55c02d56b377a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE ENGINEERING/Project Management/Agile Approach/002 -Scrum.md",
+                "file": "SOFTWARE ENGINEERING/001-Programming Languages/Java/005 -JDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 -Scrum"
+              "title": "005 -JDK"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,6 +72,18 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "513253fcded5a0de",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SOFTWARE ENGINEERING/-Images/Scrum3.png"
+              },
+              "icon": "lucide-image",
+              "title": "Scrum3"
             }
           }
         ]
@@ -176,53 +175,87 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8510182773ad258",
+  "floating": {
+    "id": "eb1ad8753710eb16",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4caa643b86414b44",
+        "type": "window",
+        "children": [
+          {
+            "id": "2f3df8f11a2356fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53d166c173d76b20",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f3d55c02d56b377a",
   "lastOpenFiles": [
-    "download.png",
-    "SOFTWARE ENGINEERING/-Images/Scrum3.png",
-    "SOFTWARE ENGINEERING/Project Management/Agile Approach/002 -Scrum.md",
-    "SOFTWARE ENGINEERING/-Images/Scrum2.png",
-    "Burn-up-Chart-3.gif",
-    "Pasted image 20250817000728.png",
-    "SOFTWARE ENGINEERING/-Images/Agile Approach2.jpg",
-    "Burn up Chart 3.gif",
-    "SOFTWARE ENGINEERING/-Images/Scrum1.jpg",
-    "SOFTWARE ENGINEERING/Project Management/Agile Approach/001 -Agile Approach.md",
+    "Untitled.md",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/005 -JDK.md",
+    "SOFTWARE ENGINEERING/-Images/JDK2.png",
+    "images.png",
+    "jw-whatisjdk-fig1-100827414-large.jpg",
+    "Pasted image 20250817142430.jpg",
+    "SOFTWARE ENGINEERING/-Images/JDK1.png",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/004 -JRE.md",
+    "Review/Yazılım/Yazılım Jargonları/004 -Exception Handling.md",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/003 -JNI.md",
+    "SOFTWARE ENGINEERING/-Images/JRE1.png",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/002 -JVM.md",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/001 -History Of Java.md",
+    "SOFTWARE ENGINEERING/-Images/JVM2.png",
+    "SOFTWARE ENGINEERING/Studio/API.md",
+    "Untitled",
+    "SOFTWARE ENGINEERING/-Images/JVM1.png",
+    "SOFTWARE ENGINEERING/-Images/JVM1.jpg",
+    "SOFTWARE ENGINEERING/Studio/Thread.md",
+    "SOFTWARE ENGINEERING/002-Jargons/008 -Assembly.md",
+    "SOFTWARE ENGINEERING/002-Jargons/006 -Compiler.md",
+    "SOFTWARE ENGINEERING/005-Biography/001 -James Gosling.md",
+    "SOFTWARE ENGINEERING/005-Biography",
+    "SOFTWARE ENGINEERING/002-Jargons/007 -Interpreter.md",
+    "SOFTWARE ENGINEERING/003-Project Management/Agile Approach/002 -Scrum.md",
+    "SOFTWARE ENGINEERING/003-Project Management/Agile Approach/001 -Agile Approach.md",
     "SOFTWARE ENGINEERING/Studio/003 -Kanban.md",
     "SOFTWARE ENGINEERING/Studio/Design Patterns.md",
-    "SOFTWARE ENGINEERING/Design Patterns",
-    "SOFTWARE ENGINEERING/-Images/Garbage Collection1.jpg",
-    "SOFTWARE ENGINEERING/-Images/Agile Approach3.png",
-    "SOFTWARE ENGINEERING/Programming Languages/Java/002 -JVM.md",
-    "SOFTWARE ENGINEERING/Programming Languages/Java/003 -JNI.md",
-    "SOFTWARE ENGINEERING/Programming Languages/Java/001 -History Of Java.md",
+    "SOFTWARE ENGINEERING/004-Design Patterns",
     "SOFTWARE ENGINEERING/Studio/005 -Lean.md",
     "SOFTWARE ENGINEERING/Studio/004 -XP.md",
     "SOFTWARE ENGINEERING/Project Management Approaches/Agile Approach/001 - Agile.md",
-    "SOFTWARE ENGINEERING/Project Management/Agile Approach",
-    "SOFTWARE ENGINEERING/Project Management",
-    "SOFTWARE ENGINEERING/Jargons/001 -OOP.md",
+    "SOFTWARE ENGINEERING/003-Project Management/Agile Approach",
+    "SOFTWARE ENGINEERING/003-Project Management",
+    "SOFTWARE ENGINEERING/002-Jargons/001 -OOP.md",
     "Review/Yazılım/Yazılım Jargonları/001 -SDK.md",
-    "SOFTWARE ENGINEERING/Jargons/002 -JIT vs AOT.md",
-    "SOFTWARE ENGINEERING/Jargons/008 -Assembly.md",
-    "SOFTWARE ENGINEERING/Jargons/007 -Interpreter.md",
-    "SOFTWARE ENGINEERING/Jargons/006 -Compiler.md",
-    "SOFTWARE ENGINEERING/Jargons/005 -Machine Code.md",
-    "SOFTWARE ENGINEERING/Jargons/004 -Byte Code.md",
-    "SOFTWARE ENGINEERING/Jargons/003 -Garbage Collection.md",
+    "SOFTWARE ENGINEERING/002-Jargons/002 -JIT vs AOT.md",
+    "SOFTWARE ENGINEERING/002-Jargons/005 -Machine Code.md",
+    "SOFTWARE ENGINEERING/002-Jargons/004 -Byte Code.md",
     "SOFTWARE ENGINEERING/-Images",
     "SOFTWARE ENGINEERING/Studio",
-    "SOFTWARE ENGINEERING/Studio/Number Systems.md",
-    "Review/Yazılım/Yazılım Jargonları/002 -GCC Ve CLANG Derleyiciler.md",
     "Review/Sertifika/Google Play Mağaza Giriş Sertifikası.pdf",
-    "Review/Sertifika/Sertifika Linkleri.md",
-    "Review/Yazılım/Programlama Dilleri/Python/007 -Bazı Python Fonksiyonlar.md",
-    "SOFTWARE ENGINEERING/Jargons",
-    "Review/Yazılım/Yazılım Jargonları/010 -SDLC.md",
-    "SOFTWARE ENGINEERING/Programming Languages/Java",
-    "SOFTWARE ENGINEERING/Programming Languages",
-    "Review",
-    "Review/Yazılım/Programlama Dilleri/Kotlin/005 -JSON İşleme.md",
+    "SOFTWARE ENGINEERING/002-Jargons",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java",
     "Untitled.canvas"
   ]
 }
