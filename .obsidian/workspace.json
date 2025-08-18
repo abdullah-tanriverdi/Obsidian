@@ -175,45 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "eb1ad8753710eb16",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4caa643b86414b44",
-        "type": "window",
-        "children": [
-          {
-            "id": "2f3df8f11a2356fa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "53d166c173d76b20",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f3d55c02d56b377a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "SOFTWARE ENGINEERING/002-Jargons/001 -OOP.md",
     "SOFTWARE ENGINEERING/001-Programming Languages/Java/005 -JDK.md",
+    "Untitled.md",
     "SOFTWARE ENGINEERING/-Images/JDK2.png",
     "images.png",
     "jw-whatisjdk-fig1-100827414-large.jpg",
@@ -233,7 +199,7 @@
     "SOFTWARE ENGINEERING/Studio/Thread.md",
     "SOFTWARE ENGINEERING/002-Jargons/008 -Assembly.md",
     "SOFTWARE ENGINEERING/002-Jargons/006 -Compiler.md",
-    "SOFTWARE ENGINEERING/005-Biography/001 -James Gosling.md",
+    "SOFTWARE ENGINEERING/Studio/001 -James Gosling.md",
     "SOFTWARE ENGINEERING/005-Biography",
     "SOFTWARE ENGINEERING/002-Jargons/007 -Interpreter.md",
     "SOFTWARE ENGINEERING/003-Project Management/Agile Approach/002 -Scrum.md",
@@ -246,7 +212,6 @@
     "SOFTWARE ENGINEERING/Project Management Approaches/Agile Approach/001 - Agile.md",
     "SOFTWARE ENGINEERING/003-Project Management/Agile Approach",
     "SOFTWARE ENGINEERING/003-Project Management",
-    "SOFTWARE ENGINEERING/002-Jargons/001 -OOP.md",
     "Review/Yazılım/Yazılım Jargonları/001 -SDK.md",
     "SOFTWARE ENGINEERING/002-Jargons/002 -JIT vs AOT.md",
     "SOFTWARE ENGINEERING/002-Jargons/005 -Machine Code.md",
