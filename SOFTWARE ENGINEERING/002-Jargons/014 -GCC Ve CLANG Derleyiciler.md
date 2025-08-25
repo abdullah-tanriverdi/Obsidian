@@ -1,8 +1,8 @@
 #Yazılım #Yazılım-Jargon 
 
-![[Pasted image 20250126212646.png|400]]
+![[GCC Ve CLANG Derleyiciler1.png|400]]
 
-==**GCC (GNU Compiler Collection)**==
+**GCC (GNU Compiler Collection)**
 GCC, GNU Projesi tarafından geliştirilen açık kaynak kodlu bir derleyici ailesidir. C, C++, Objective-C, Fortran, Ada, Go gibi birçok programlama dilini destekler. Unix tabanlı işletim sistemleri için yaygın olarak kullanılan bir araçtır.
 
 **Özellikleri:**
@@ -37,7 +37,7 @@ gcc -o cikti dosya.c
 
 
 
-==**Clang**==
+**Clang**
 Clang, LLVM (Low Level Virtual Machine) projesi kapsamında geliştirilmiş bir derleyicidir. C, C++ ve Objective-C gibi diller için optimize edilmiştir. GCC'ye benzer bir şekilde çalışsa da daha modern bir tasarıma sahiptir.
 
 **Özellikleri:**
@@ -70,7 +70,7 @@ clang -o cikti dosya.c
 - GCC kadar eski ve yaygın değil.
 - Daha az sayıda platformu destekleyebilir.
 
-==**GCC ve Clang Karşılaştırması**==
+**GCC ve Clang Karşılaştırması**
 
 |Özellik|GCC|Clang|
 |---|---|---|

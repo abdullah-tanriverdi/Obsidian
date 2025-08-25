@@ -1,7 +1,7 @@
 #Yazılım #Yazılım-Jargon 
 
 
-![[Pasted image 20250328124226.png|400]]
+![[JSON1.png|400]]
 
 **JSON (JavaScript Object Notation)**, veri alışverişi için kullanılan hafif bir veri formatıdır. İnsanlar tarafından okunabilir, makineler tarafından kolayca işlenebilir. Özellikle web servisleri ve API'ler arasında veri iletimi için yaygın bir biçimdir. JSON, JavaScript dilinden türemiş olmasına rağmen, pek çok programlama dili tarafından desteklenir ve kullanılır.
 

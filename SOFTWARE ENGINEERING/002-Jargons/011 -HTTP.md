@@ -1,6 +1,6 @@
 #Yazılım #Yazılım-Jargon 
 
-![[Pasted image 20250328130756.jpg]]
+![[HTTP1.jpg]]
 
 HTTP (HyperText Transfer Protocol), web üzerinde veri iletimi için kullanılan bir protokoldür. İnternet üzerinde tarayıcılar ile sunucular arasında veri alışverişini sağlayan temel iletişim protokolüdür. HTTP, istemci (tarayıcı) ve sunucu arasındaki istek ve yanıtları belirleyen kurallar bütünüdür.
 
@@ -11,7 +11,7 @@ HTTP (HyperText Transfer Protocol), web üzerinde veri iletimi için kullanılan
 
 
 
-==**HTTP İstekleri (Requests)**==
+**HTTP İstekleri (Requests)**
 Bir HTTP isteği, istemcinin sunucuya gönderdiği mesajdır. HTTP isteği şu bileşenlerden oluşur:
 
 - **Metod**: İsteğin amacını belirtir (GET, POST, PUT, DELETE, vb.).
@@ -28,7 +28,7 @@ User-Agent: Mozilla/5.0
 
 ```
 
-==**HTTP Yanıtları (Responses)**==
+**HTTP Yanıtları (Responses)**
 Sunucudan istemciye dönen yanıttır ve şu bileşenlerden oluşur:
 
 - **Durum Kodu**: İsteğin sonucunu belirtir (örneğin, 200 OK, 404 Not Found).
@@ -51,7 +51,7 @@ Content-Length: 1024
 ```
 
 
-==**HTTP Yöntemleri (Methods)**==
+**HTTP Yöntemleri (Methods)**
 HTTP protokolü farklı işlemler için çeşitli yöntemler sunar. En yaygın yöntemler:
 
 - **GET**: Sunucudan veri talep eder (veri alır).
@@ -67,7 +67,7 @@ HTTP protokolü farklı işlemler için çeşitli yöntemler sunar. En yaygın y
 - **OPTIONS**: Sunucunun desteklediği HTTP yöntemlerini sorgular.
 
 
-==**HTTP Durum Kodları**==
+**HTTP Durum Kodları**
 Durum kodları, HTTP yanıtlarında istemciye sunucu tarafından gönderilen cevapları temsil eder. Yaygın durum kodları:
 
 - **200 OK**: İstek başarıyla tamamlandı.
@@ -86,7 +86,7 @@ Durum kodları, HTTP yanıtlarında istemciye sunucu tarafından gönderilen cev
 
 
 
-==**HTTP Başlıkları (Headers)**==
+**HTTP Başlıkları (Headers)**
 
 HTTP başlıkları, istek veya yanıtla ilgili ek bilgileri içerir. İki ana türü vardır:
 
@@ -101,14 +101,14 @@ Authorization: Bearer <token>
 
 ```
 
-==**HTTP ve HTTPS**==
+**HTTP ve HTTPS**
 
 - **HTTP** (HyperText Transfer Protocol), güvenliksiz bir protokoldür, veriler şifrelenmeden iletilir.
     
 - **HTTPS** (HTTP Secure), şifreli bir iletişim protokolüdür. HTTPS, SSL/TLS şifreleme kullanarak verilerin güvenli bir şekilde iletilmesini sağlar.
 
 
-==**Cookies ve Session**==
+**Cookies ve Session**
 
 - **Cookies**: Kullanıcı tarayıcısında saklanan küçük veri parçalarıdır. HTTP istekleri ile sunucuya gönderilebilir.
     

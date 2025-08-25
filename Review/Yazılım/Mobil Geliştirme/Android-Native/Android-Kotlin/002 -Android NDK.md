@@ -19,7 +19,7 @@ Android uygulamaları geliştiren yazılımcılara, C ve C++ gibi düşük seviy
 
 
 > [!tip] İPUCU
-> GCC ve Clang derleyicileri hakkında daha fazla bilgi almak için bağlantıya tıkla  [[002 -GCC Ve CLANG Derleyiciler]]
+> GCC ve Clang derleyicileri hakkında daha fazla bilgi almak için bağlantıya tıkla  [[014 -GCC Ve CLANG Derleyiciler]]
 
 
 **NDK Kullanmanın Dezavantajları**
@@ -40,7 +40,7 @@ Android uygulamaları geliştiren yazılımcılara, C ve C++ gibi düşük seviy
 
 > [!tip] İPUCU
 > 
-> Gradle hakkında daha fazla bilgi almak için bağlantıya tıkla [[003 -Gradle]]
+> Gradle hakkında daha fazla bilgi almak için bağlantıya tıkla [[015 -Gradle]]
 > ADB hakkında daha fazla bilgi almak için bağlantıya tıkla [[004 -ADB (Android Debug Bridge) Nedir]]
 > 
 

@@ -1,7 +1,7 @@
 #Yazılım #Yazılım-Jargon 
 
 
-![[Pasted image 20250126222233.png]]
+![[Gradle1.png]]
 
  Gradle, açık kaynaklı bir yazılım yapılandırma aracıdır. Java projeleri için geliştirilmiş olsa da, Kotlin, Groovy, Scala, C/C++ gibi dillerle de çalışabilir. Gradle, projelerin derlenmesi, test edilmesi, paketlenmesi ve dağıtılması gibi süreçlerin otomatikleştirilmesini sağlar. Gradle, esnek bir yapılandırma sistemi sunar ve kullanıcıların projelerine özel ihtiyaçlara göre yapı oluşturmasına olanak tanır.
 
@@ -13,7 +13,7 @@
 - **Yüksek Performans**: Gradle, yüksek verimli derleme süreçleri sunarak, projelerin hızlı bir şekilde oluşturulmasına yardımcı olur.
 
 
-==**Gradle Dosyaları**==
+**Gradle Dosyaları**
 Gradle iki ana dosya kullanır:
 
 1. **build.gradle**: Projelerin yapılandırmalarının yer aldığı ana dosya. Java, Kotlin veya Groovy DSL ile yazılabilir.

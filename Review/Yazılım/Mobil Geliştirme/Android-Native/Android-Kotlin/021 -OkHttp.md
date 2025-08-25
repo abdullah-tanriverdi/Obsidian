@@ -5,7 +5,7 @@ OkHttp, HTTP istemci kütüphanesidir. Java ve Android projelerinde HTTP istekle
 
 
 > [!info] İPUCU
-> HTTP hakkında daha fazla bilgi almak için bağlantıya tıkla [[009 -HTTP]]
+> HTTP hakkında daha fazla bilgi almak için bağlantıya tıkla [[011 -HTTP]]
 
 **OkHttp'yi Projeye Dahil Etme**
 

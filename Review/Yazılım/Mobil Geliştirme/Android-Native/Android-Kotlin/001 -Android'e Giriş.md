@@ -49,7 +49,7 @@ Android, Google tarafından geliştirilen açık kaynaklı bir mobil işletim si
 **Android SDK(Software Development Kit):** Android işletim sistemi için uygulama geliştirmek amacıyla kullanılan bir araç ve yazılım kütüphanesidir. SDK, Android uygulamaları oluşturmak, test etmek ve hata ayıklamak için gerekli olan tüm araçları içerir. Android geliştiricileri bu kit aracılığıyla uygulamaları yazabilir, çalıştırabilir ve optimize edebilir.
 
 > [!tip] İPUCU
->  SDK hakkında daha fazla bilgi almak için bu bağlantıya tıkla [[001 -SDK]]
+>  SDK hakkında daha fazla bilgi almak için bu bağlantıya tıkla [[012 -SDK]]
 
 
 

@@ -4,7 +4,7 @@ Kotlin, JSON verilerini işlemek için çok sayıda popüler kütüphane sunmakt
 
 
 > [!tip] İPUCU
-> Json hakkında daha fazla bilgiye erişmek için bağlantıya tıkla [[008 -JSON]]
+> Json hakkında daha fazla bilgiye erişmek için bağlantıya tıkla [[010 -JSON]]
 
 
 

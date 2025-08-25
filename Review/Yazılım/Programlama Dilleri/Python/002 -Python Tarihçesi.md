@@ -47,7 +47,7 @@ Python, 1990'ların başında Hollandalı yazılımcı Guido van Rossum tarafın
     Python 3.0, 3 Aralık 2008’de yayımlandı ve bu sürüm, Python’un tarihindeki en büyük değişiklikleri içeriyordu. Python 3, geriye dönük uyumluluğu kırarak Python 2.x ile tam uyumlu olmayan yeni bir versiyon olarak tasarlandı. Bu, Python dilinin daha tutarlı ve güçlü bir yapıya kavuşturulmasını amaçladı. Python 3’ün önemli yenilikleri arasında **print fonksiyonu**, **daha güvenli Unicode desteği**, **sadeleştirilmiş sözdizimi** ve **daha güçlü istisna işleme (exception handling)** yer alıyordu. Ancak bu büyük değişiklikler, Python 2’den Python 3’e geçişi zorlaştırdı ve bu durum, bazı kullanıcıların hala Python 2’yi tercih etmelerine neden oldu.
     
 > [!tldr] İPUCU
-> Exception Handling hakkında bilgi almak için bağlantıya tıkla [[004 -Exception Handling]]
+> Exception Handling hakkında bilgi almak için bağlantıya tıkla [[016 -Exception Handling]]
 
 - **2010 - Python 3.1, 3.2, 3.3, 3.4 ve 3.5:**  
     Python 3’ün sonraki sürümleri, dilin hızını artırmayı, yazılımcı dostu özellikler eklemeyi ve Python’u daha da olgunlaştırmayı amaçladı. Bu sürümler, dilin verimliliğini artıran özellikler eklerken, aynı zamanda daha kullanıcı dostu hale getirilmişti. Python 3.5, en son sürümlerin içinde en çok tercih edilendir, çünkü dilin daha önceki sürümlerindeki eksiklikler giderilmiştir.

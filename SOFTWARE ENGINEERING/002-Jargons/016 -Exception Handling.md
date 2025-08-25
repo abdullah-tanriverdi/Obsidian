@@ -2,15 +2,15 @@
 
 
 
-![[excaptionhanling.png|500]]
+![[Exception Handling1.png|500]]
 Hata yönetimi, bir programda beklenmeyen hataların (exceptions) doğru bir şekilde ele alınmasını sağlayarak programın çökmemesini veya yanlış çalışmamasını sağlar.
 
-==**Exception (İstisna) Nedir?**==
+**Exception (İstisna) Nedir?**
 
 - Bir program çalışırken meydana gelen ve normal akışı bozan beklenmedik olaydır.
 - Örnek: Bölme işleminde sıfıra bölme, dosyanın bulunamaması, null referansı kullanma gibi durumlar.
 
-==**Exception Türleri**==
+**Exception Türleri**
 
 1. **Checked Exceptions (Kontrol Edilen İstisnalar):**
     
@@ -26,7 +26,7 @@ Hata yönetimi, bir programda beklenmeyen hataların (exceptions) doğru bir şe
     - Örneğin: `OutOfMemoryError`.
 
 
-==**Exception Handling Mekanizması**==
+**Exception Handling Mekanizması**
 
 Hata yönetimi mekanizması, bir hata meydana geldiğinde:
 
@@ -34,7 +34,7 @@ Hata yönetimi mekanizması, bir hata meydana geldiğinde:
 2. Programın kalan kısmına zarar vermeden hata ile ilgilenir.
 3. Gerekirse programı sonlandırır.
 
-==**Hata Yönetiminde Kullanılan Yapılar**==
+**Hata Yönetiminde Kullanılan Yapılar**
 
 **a. Try-Catch Bloğu**
 
@@ -50,7 +50,7 @@ try {
 
 ```
 
-==**b. Finally Bloğu**==
+**b. Finally Bloğu**
 
 - Hata olsun ya da olmasın mutlaka çalışan bloktur.
 - Kaynakları serbest bırakmak için kullanılır (örneğin: dosya kapatma, bellek temizleme).
@@ -64,7 +64,7 @@ try {
 ```
 
 
-==**c. Throw ve Throws**==
+**c. Throw ve Throws**
 
 - **`throw`**: Hata fırlatmak için kullanılır.
     
@@ -79,7 +79,7 @@ try {
 ```
 
 
-==**Çalışma Zamanı Hatalarını Önleme**==  
+**Çalışma Zamanı Hatalarını Önleme**  
 
 1. **Input Validation:** Kullanıcıdan gelen girdileri kontrol edin.
 2. **Null Kontrolleri:** Referansların `null` olmadığından emin olun.
