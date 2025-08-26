@@ -209,7 +209,7 @@ Java Applet, web sayfalarına gömülebilen küçük Java programlarıdır.
 > [[002 -JVM]]
 > [[003 -Garbage Collection]]
 > [[001 -OOP]]
-> [[Thread]]
+> [[019 -Thread]]
 > [[002 -JIT vs AOT]]
 > [[005 -Machine Code]]
 > [[004 -Byte Code]]

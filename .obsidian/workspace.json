@@ -8,30 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3d55c02d56b377a",
+            "id": "b58c9f3047ff056e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE ENGINEERING/001-Programming Languages/Java/005 -JDK.md",
+                "file": "SOFTWARE ENGINEERING/002-Jargons/019 -Thread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 -JDK"
+              "title": "019 -Thread"
             }
           },
           {
-            "id": "b58c9f3047ff056e",
+            "id": "4c0ba53695ff7b50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SOFTWARE ENGINEERING/002-Jargons/017 -Program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "017 -Program"
+            }
+          },
+          {
+            "id": "58de9091fde960d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOFTWARE ENGINEERING/003-Project Management/Agile Approach/002 -Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 -Scrum"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,12 +205,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3d55c02d56b377a",
+  "active": "58de9091fde960d5",
   "lastOpenFiles": [
+    "SOFTWARE ENGINEERING/003-Project Management/Agile Approach/001 -Agile Approach.md",
+    "SOFTWARE ENGINEERING/002-Jargons/019 -Thread.md",
+    "SOFTWARE ENGINEERING/002-Jargons/018 -Process.md",
+    "SOFTWARE ENGINEERING/002-Jargons/017 -Program.md",
+    "SOFTWARE ENGINEERING/002-Jargons/016 -Exception Handling.md",
+    "SOFTWARE ENGINEERING/002-Jargons/004 -Byte Code.md",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/005 -JDK.md",
+    "SOFTWARE ENGINEERING/Studio/001 -James Gosling.md",
     "SOFTWARE ENGINEERING/001-Programming Languages/Java/003 -JNI.md",
     "SOFTWARE ENGINEERING/001-Programming Languages/Java/002 -JVM.md",
     "SOFTWARE ENGINEERING/001-Programming Languages/Java/001 -History Of Java.md",
-    "SOFTWARE ENGINEERING/001-Programming Languages/Java/005 -JDK.md",
     "-Resimler/adaptivelayouts.png",
     "-Resimler/Android_SplashScreen.png",
     "-Resimler/birden_fazla_grafik.png",
@@ -202,7 +228,6 @@
     "-Resimler/Pasted image 20241226133352.png",
     "-Resimler/Pasted image 20250126205837.jpg",
     "-Resimler/Pasted image 20250202142912.jpg",
-    "SOFTWARE ENGINEERING/002-Jargons/016 -Exception Handling.md",
     "Review/Yazılım/Yazılım Jargonları/010 -SDLC.md",
     "Review/Yazılım/Mobil Geliştirme/Android-Native/Android-Kotlin/001 -Android'e Giriş.md",
     "SOFTWARE ENGINEERING/002-Jargons/015 -Gradle.md",
@@ -215,16 +240,11 @@
     "SOFTWARE ENGINEERING/002-Jargons/009 -API.md",
     "SOFTWARE ENGINEERING/002-Jargons/006 -Compiler.md",
     "SOFTWARE ENGINEERING/002-Jargons/008 -Assembly.md",
-    "SOFTWARE ENGINEERING/Studio/Thread.md",
     "SOFTWARE ENGINEERING/003-Project Management/Agile Approach/002 -Scrum.md",
     "SOFTWARE ENGINEERING/002-Jargons/001 -OOP.md",
-    "Untitled.md",
     "SOFTWARE ENGINEERING/001-Programming Languages/Java/004 -JRE.md",
     "Untitled",
-    "SOFTWARE ENGINEERING/Studio/001 -James Gosling.md",
     "SOFTWARE ENGINEERING/005-Biography",
-    "SOFTWARE ENGINEERING/003-Project Management/Agile Approach/001 -Agile Approach.md",
-    "SOFTWARE ENGINEERING/Studio/003 -Kanban.md",
     "SOFTWARE ENGINEERING/004-Design Patterns",
     "SOFTWARE ENGINEERING/003-Project Management/Agile Approach",
     "SOFTWARE ENGINEERING/003-Project Management",
