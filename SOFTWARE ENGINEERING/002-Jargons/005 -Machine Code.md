@@ -172,13 +172,6 @@ A3 ?? ?? ?? ??    ; mov [a], eax (?? adresi temsil eder)
 |Ara Katman|Python Bytecode (PVM içindir)|Assembly → Binary (CPU içindir)|
 |Ortam|Sanal Makine (örneğin CPython)|Doğrudan donanım (x86 CPU vb.)|
 
-
-> [!tip] İPUCU
-> Sayı sistemleri hakkında daha fazla bilgi almak için bağlantıya tıkla [[Number Systems]]
-> Compiler hakkında daha fazla bilgi almak için bağlantıya tıkla [[006 -Compiler]]
-> Interpreter hakkında daha fazla bilgi almak için bağlantıya tıkla  [[007 -Interpreter]]
-> Assembly hakkında daha fazla bilgi almak için bağlantıya tıkla [[008 -Assembly]]
-
 ---
 
 ***Abdullah TANRIVERDİ***

@@ -202,19 +202,6 @@ Java Applet, web sayfalarına gömülebilen küçük Java programlarıdır.
     allowfullscreen>
 </iframe>
 
-
-
-> [!tip] İPUCU
-> [[001 -James Gosling]]
-> [[002 -JVM]]
-> [[003 -Garbage Collection]]
-> [[001 -OOP]]
-> [[019 -Thread]]
-> [[002 -JIT vs AOT]]
-> [[005 -Machine Code]]
-> [[004 -Byte Code]]
-> [[006 -Compiler]]
-
 ***
 
 ***Abdullah TANRIVERDİ***
