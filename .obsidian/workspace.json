@@ -11,32 +11,42 @@
             "id": "58de9091fde960d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SOFTWARE ENGINEERING/003-Data Science/005 -Pandas.md",
-                "mode": "source",
-                "source": false
+                "file": "SOFTWARE ENGINEERING/-Images/Activation Function4.svg"
               },
-              "icon": "lucide-file",
-              "title": "005 -Pandas"
+              "icon": "lucide-image",
+              "title": "Activation Function4"
             }
           },
           {
             "id": "87562a232577c661",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "SOFTWARE ENGINEERING/-Images/Activation Function8.png"
+              },
+              "icon": "lucide-image",
+              "title": "Activation Function8"
+            }
+          },
+          {
+            "id": "7b38e69e6efaed30",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE ENGINEERING/003-Data Science/008 -Key Concepts II.md",
-                "mode": "preview",
+                "file": "SOFTWARE ENGINEERING/003-Data Science/011 -Activation Function.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008 -Key Concepts II"
+              "title": "011 -Activation Function"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 347.5
   },
   "right": {
     "id": "d95ba296d5788186",
@@ -191,54 +201,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87562a232577c661",
+  "active": "d8510182773ad258",
   "lastOpenFiles": [
-    "SOFTWARE ENGINEERING/003-Data Science/002 -Key Concepts I.md",
-    "SOFTWARE ENGINEERING/003-Data Science/008 -Key Concepts II.md",
+    "SOFTWARE ENGINEERING/003-Data Science/010 -Artificial Neural Networks.md",
+    "SOFTWARE ENGINEERING/003-Data Science/009 -TensorFlow.md",
+    "SOFTWARE ENGINEERING/-Images/Activation Function12.svg",
+    "SOFTWARE ENGINEERING/-Images/Activation Function1.svg",
+    "SOFTWARE ENGINEERING/-Images/Activation Function11.png",
+    "SOFTWARE ENGINEERING/-Images/Activation Function10.svg",
+    "SOFTWARE ENGINEERING/003-Data Science/011 -Activation Function.md",
+    "SOFTWARE ENGINEERING/-Images/Activation Function8.png",
+    "SOFTWARE ENGINEERING/-Images/Activation Function9.png",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/002 -JVM.md",
+    "SOFTWARE ENGINEERING/-Images/Activation Function7.png",
+    "SOFTWARE ENGINEERING/-Images/Activation Function6.svg",
+    "SOFTWARE ENGINEERING/-Images/Activation Function5.png",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/001 -History Of Java.md",
+    "SOFTWARE ENGINEERING/-Images/Activation Function4.svg",
     "SOFTWARE ENGINEERING/003-Data Science/007 -Seaborn.md",
-    "SOFTWARE ENGINEERING/003-Data Science/006 -Matplotlib.md",
-    "SOFTWARE ENGINEERING/-Images/Seaborn1.png",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib5.png",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib8.png",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib7.png",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib6.png",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib4.png",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib3.png",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib2.png",
     "SOFTWARE ENGINEERING/003-Data Science/005 -Pandas.md",
-    "SOFTWARE ENGINEERING/001-Programming Languages/Java/004 -JRE.md",
-    "SOFTWARE ENGINEERING/-Images/Matplotlib1.png",
-    "SOFTWARE ENGINEERING/003-Data Science/004 -NumPy.md",
-    "SOFTWARE ENGINEERING/-Images/Pandas1.png",
     "SOFTWARE ENGINEERING/003-Data Science/003 -Kaggle.md",
     "SOFTWARE ENGINEERING/003-Data Science/001 -What is Data Science.md",
+    "SOFTWARE ENGINEERING/003-Data Science/002 -Key Concepts I.md",
+    "Studio/011 -Activation Function.md",
+    "Data/Deep Learning",
+    "Data/SQL",
+    "Data/Artificial Intelligence",
+    "Data/Machine Learning",
+    "Data/Data Science",
+    "Data",
+    "Studio/SQL.md",
+    "Studio/Kayıp FOnksiyonlar.md",
+    "Studio/Gradinet Descent Ağırlık Güncelle.md",
+    "Studio/Overfitting Underfitting.md",
+    "Studio/Model Eğitime",
+    "Studio/DNN",
+    "SOFTWARE ENGINEERING/003-Data Science/008 -Key Concepts II.md",
+    "SOFTWARE ENGINEERING/003-Data Science/006 -Matplotlib.md",
+    "SOFTWARE ENGINEERING/001-Programming Languages/Java/004 -JRE.md",
+    "SOFTWARE ENGINEERING/003-Data Science/004 -NumPy.md",
     "SOFTWARE ENGINEERING/004-Project Management/Agile Approach/001 -Agile Approach.md",
-    "SOFTWARE ENGINEERING/001-Programming Languages/Java/001 -History Of Java.md",
     "SOFTWARE ENGINEERING/002-Jargons/002 -JIT vs AOT.md",
     "SOFTWARE ENGINEERING/002-Jargons/019 -Thread.md",
     "SOFTWARE ENGINEERING/002-Jargons/018 -Process.md",
     "SOFTWARE ENGINEERING/002-Jargons/017 -Program.md",
     "SOFTWARE ENGINEERING/002-Jargons/016 -Exception Handling.md",
-    "SOFTWARE ENGINEERING/002-Jargons/015 -Gradle.md",
-    "SOFTWARE ENGINEERING/002-Jargons/014 -GCC Ve CLANG Derleyiciler.md",
-    "SOFTWARE ENGINEERING/002-Jargons/012 -SDK.md",
-    "SOFTWARE ENGINEERING/002-Jargons/011 -HTTP.md",
-    "SOFTWARE ENGINEERING/002-Jargons/010 -JSON.md",
-    "SOFTWARE ENGINEERING/002-Jargons/009 -API.md",
-    "SOFTWARE ENGINEERING/002-Jargons/008 -Assembly.md",
-    "SOFTWARE ENGINEERING/002-Jargons/007 -Interpreter.md",
-    "SOFTWARE ENGINEERING/002-Jargons/006 -Compiler.md",
-    "SOFTWARE ENGINEERING/002-Jargons/005 -Machine Code.md",
-    "Untitled",
-    "Studio/Untitled",
     "Studio",
     "SOFTWARE ENGINEERING/Data Science/Untitled",
-    "SOFTWARE ENGINEERING/003-Data Science",
-    "SOFTWARE ENGINEERING/005-Biography",
-    "SOFTWARE ENGINEERING/004-Design Patterns",
-    "SOFTWARE ENGINEERING/004-Project Management/Agile Approach",
-    "SOFTWARE ENGINEERING/004-Project Management",
-    "SOFTWARE ENGINEERING/-Images",
     "Untitled.canvas"
   ]
 }
